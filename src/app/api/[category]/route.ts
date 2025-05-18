@@ -7,7 +7,6 @@ export async function GET(
   request: Request,
   context: { params: Promise<{ category: string }> }
 ) {
-  // Context7/Next.js 15+ syntax: await params
   const { category } = await context.params;
   const wordEntry = await getRandomWordByCategory(category as WordCategory);
   if (!wordEntry) {

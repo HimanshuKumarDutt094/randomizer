@@ -39,5 +39,3 @@ export async function GET() {
   }
   return NextResponse.json(wordEntry);
 }
-
-// No params or searchParams used in this route, so no update is needed for Context7/Next.js 15+.

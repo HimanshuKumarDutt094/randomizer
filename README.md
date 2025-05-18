@@ -25,7 +25,6 @@ A type-safe API server built with Next.js and TypeScript for generating random w
 | `GET /api/fish`       | Random fish      |
 | `GET /api/fruits`     | Random fruit     |
 | `GET /api/vegetables` | Random vegetable |
-| `GET /api/objects`    | Random object    |
 
 ### Part of Speech Endpoints
 
@@ -140,7 +139,6 @@ All word data is stored in JSON files in the [`public/`](public/) directory:
 - `fish.json`
 - `fruits.json`
 - `vegetables.json`
-- `objects.json` (if present)
 - `noun.json`
 - `verb.json`
 
