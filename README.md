@@ -162,19 +162,19 @@ To add or update words, simply edit the relevant JSON file.
 Fetch a random color:
 
 ```bash
-curl https://<your-domain>/api/color?format=oklch
+curl https://randomizer-black.vercel.app/api/color?format=oklch
 ```
 
 Fetch a color palette:
 
 ```bash
-curl "https://<your-domain>/api/color-palette?from=rgba(10,20,30,1)&to=rgba(200,100,50,0.5)&points=5&format=hex"
+curl "https://randomizer-black.vercel.app/api/color-palette?from=rgba(10,20,30,1)&to=rgba(200,100,50,0.5)&points=5&format=hex"
 ```
 
 Fetch a random everything:
 
 ```bash
-curl https://<your-domain>/api/random
+curl https://randomizer-black.vercel.app/api/random
 ```
 
 Response:
