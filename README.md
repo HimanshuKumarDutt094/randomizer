@@ -36,10 +36,23 @@ A type-safe API server built with Next.js and TypeScript for generating random w
 
 ### Color Endpoints
 
-| Endpoint                                          | Description                               |
-| ------------------------------------------------- | ----------------------------------------- |
-| `GET /api/color`                                  | Random color (hex, rgba, oklch)           |
-| `GET /api/color-palette?from=...&to=...&points=5` | Generate color palette between two colors |
+| Endpoint                                                                  | Description                                                               |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| `GET /api/color?format=hex\|rgba\|oklch`                                  | Random color (hex, rgba, oklch). Optional `format` query param.           |
+| `GET /api/color-palette?from=...&to=...&points=5&format=hex\|rgba\|oklch` | Generate color palette between two colors. Optional `format` query param. |
+
+#### Color Endpoint Query Parameters
+
+- `format` (optional): Specify the color format to return. One of `hex`, `rgba`, or `oklch`.
+  - Example: `/api/color?format=hex`
+
+#### Color Palette Endpoint Query Parameters
+
+- `from` (required): Starting color (hex or rgba)
+- `to` (required): Ending color (hex or rgba)
+- `points` (optional): Number of colors in the palette (default: 5)
+- `format` (optional): Specify the color format to return. One of `hex`, `rgba`, or `oklch`.
+  - Example: `/api/color-palette?from=rgba(10,20,30,1)&to=rgba(200,100,50,0.5)&points=5&format=hex`
 
 ### General Random Endpoint
 
@@ -151,13 +164,13 @@ To add or update words, simply edit the relevant JSON file.
 Fetch a random color:
 
 ```bash
-curl https://${}/api/color
+curl https://<your-domain>/api/color?format=oklch
 ```
 
 Fetch a color palette:
 
 ```bash
-curl "https://<your-domain>/api/color-palette?from=rgba(10,20,30,1)&to=rgba(200,100,50,0.5)&points=5"
+curl "https://<your-domain>/api/color-palette?from=rgba(10,20,30,1)&to=rgba(200,100,50,0.5)&points=5&format=hex"
 ```
 
 Fetch a random everything:

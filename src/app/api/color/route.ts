@@ -7,6 +7,14 @@ import type { RandomColorResponse, ColorFormat, ColorString } from "@/types";
  * /api/color:
  *   get:
  *     description: Returns a random color
+ *     parameters:
+ *       - in: query
+ *         name: format
+ *         schema:
+ *           type: string
+ *           enum: [hex, rgba, oklch]
+ *         required: false
+ *         description: The color format to return (hex, rgba, oklch)
  *     responses:
  *       200:
  *         description: Random color object
@@ -55,13 +63,21 @@ function randomOklch(): `oklch(${number}% ${number} ${number})` {
   return `oklch(${l}% ${c} ${h})`;
 }
 
-export async function GET() {
+export async function GET(request: Request) {
+  const url = new URL(request.url);
+  const formatParam = url.searchParams.get("format");
   const formats: ColorFormat[] = ["hex", "rgba", "oklch"];
-  const format = formats[randomInt(0, formats.length - 1)];
+  const format = formats.includes(formatParam as ColorFormat)
+    ? (formatParam as ColorFormat)
+    : formats[randomInt(0, formats.length - 1)];
   let color: ColorString;
-  if (format === "hex") color = randomHex();
-  else if (format === "rgba") color = randomRgba();
-  else color = randomOklch();
+  if (format === "hex") {
+    color = randomHex();
+  } else if (format === "rgba") {
+    color = randomRgba();
+  } else {
+    color = randomOklch();
+  }
   const response: RandomColorResponse = { color, format };
   return NextResponse.json(response);
 }
