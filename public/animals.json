@@ -1,0 +1,3426 @@
+[
+  {
+    "name": "Aardvark",
+    "category": "Animals"
+  },
+  {
+    "name": "Aardwolf",
+    "category": "Animals"
+  },
+  {
+    "name": "Abyssinian",
+    "category": "Animals"
+  },
+  {
+    "name": "Addax",
+    "category": "Animals"
+  },
+  {
+    "name": "Affenpinscher",
+    "category": "Animals"
+  },
+  {
+    "name": "Afghan Hound",
+    "category": "Animals"
+  },
+  {
+    "name": "African Bush Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "African Civet",
+    "category": "Animals"
+  },
+  {
+    "name": "African Forest Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "African Golden Cat",
+    "category": "Animals"
+  },
+  {
+    "name": "African Palm Civet",
+    "category": "Animals"
+  },
+  {
+    "name": "African Wild Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Agouti",
+    "category": "Animals"
+  },
+  {
+    "name": "Aidi",
+    "category": "Animals"
+  },
+  {
+    "name": "Ainu",
+    "category": "Animals"
+  },
+  {
+    "name": "Airedale Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Airedoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Akbash",
+    "category": "Animals"
+  },
+  {
+    "name": "Akita",
+    "category": "Animals"
+  },
+  {
+    "name": "Akita Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Alabai (Central Asian Shepherd)",
+    "category": "Animals"
+  },
+  {
+    "name": "Alaskan Husky",
+    "category": "Animals"
+  },
+  {
+    "name": "Alaskan Klee Kai",
+    "category": "Animals"
+  },
+  {
+    "name": "Alaskan Malamute",
+    "category": "Animals"
+  },
+  {
+    "name": "Alaskan Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Alpaca",
+    "category": "Animals"
+  },
+  {
+    "name": "Alpine Dachsbracke",
+    "category": "Animals"
+  },
+  {
+    "name": "Alpine Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Alusky",
+    "category": "Animals"
+  },
+  {
+    "name": "Amazon River Dolphin (Pink Dolphin)",
+    "category": "Animals"
+  },
+  {
+    "name": "American Alsatian",
+    "category": "Animals"
+  },
+  {
+    "name": "American Bulldog",
+    "category": "Animals"
+  },
+  {
+    "name": "American Cocker Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "American Coonhound",
+    "category": "Animals"
+  },
+  {
+    "name": "American Eskimo Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "American Foxhound",
+    "category": "Animals"
+  },
+  {
+    "name": "American Hairless Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "American Leopard Hound",
+    "category": "Animals"
+  },
+  {
+    "name": "American Pit Bull Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "American Pygmy Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "American Staffordshire Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "American Water Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Amur Leopard",
+    "category": "Animals"
+  },
+  {
+    "name": "Anatolian Shepherd Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Angora Ferret",
+    "category": "Animals"
+  },
+  {
+    "name": "Angora Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Anteater",
+    "category": "Animals"
+  },
+  {
+    "name": "Antelope",
+    "category": "Animals"
+  },
+  {
+    "name": "Ape",
+    "category": "Animals"
+  },
+  {
+    "name": "Appenzeller Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Apple Head Chihuahua",
+    "category": "Animals"
+  },
+  {
+    "name": "Arctic Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Arctic Hare",
+    "category": "Animals"
+  },
+  {
+    "name": "Arctic Wolf",
+    "category": "Animals"
+  },
+  {
+    "name": "Armadillo",
+    "category": "Animals"
+  },
+  {
+    "name": "Asian Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "Asian Palm Civet",
+    "category": "Animals"
+  },
+  {
+    "name": "Asiatic Black Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Aurochs",
+    "category": "Animals"
+  },
+  {
+    "name": "Aussiedoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Aussiedor",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Bulldog",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Cattle Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Kelpie Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Labradoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Mist",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Australian Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Axolotl",
+    "category": "Animals"
+  },
+  {
+    "name": "Aye-aye",
+    "category": "Animals"
+  },
+  {
+    "name": "Babirusa",
+    "category": "Animals"
+  },
+  {
+    "name": "Baboon",
+    "category": "Animals"
+  },
+  {
+    "name": "Bactrian Camel",
+    "category": "Animals"
+  },
+  {
+    "name": "Badger",
+    "category": "Animals"
+  },
+  {
+    "name": "Baleen Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Balinese",
+    "category": "Animals"
+  },
+  {
+    "name": "Balkan Lynx",
+    "category": "Animals"
+  },
+  {
+    "name": "Banded Palm Civet",
+    "category": "Animals"
+  },
+  {
+    "name": "Bandicoot",
+    "category": "Animals"
+  },
+  {
+    "name": "Barbet",
+    "category": "Animals"
+  },
+  {
+    "name": "Basenji Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Bassador",
+    "category": "Animals"
+  },
+  {
+    "name": "Basset Fauve de Bretagne",
+    "category": "Animals"
+  },
+  {
+    "name": "Basset Hound",
+    "category": "Animals"
+  },
+  {
+    "name": "Bassetoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Bat-Eared Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Bavarian Mountain Hound",
+    "category": "Animals"
+  },
+  {
+    "name": "Bea-Tzu",
+    "category": "Animals"
+  },
+  {
+    "name": "Beabull",
+    "category": "Animals"
+  },
+  {
+    "name": "Beagador",
+    "category": "Animals"
+  },
+  {
+    "name": "Beagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Beagle Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Beaglier",
+    "category": "Animals"
+  },
+  {
+    "name": "Beago",
+    "category": "Animals"
+  },
+  {
+    "name": "Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Bearded Collie",
+    "category": "Animals"
+  },
+  {
+    "name": "Beaski",
+    "category": "Animals"
+  },
+  {
+    "name": "Beauceron",
+    "category": "Animals"
+  },
+  {
+    "name": "Beaver",
+    "category": "Animals"
+  },
+  {
+    "name": "Bedlington Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Beefalo",
+    "category": "Animals"
+  },
+  {
+    "name": "Belgian Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Belgian Tervuren",
+    "category": "Animals"
+  },
+  {
+    "name": "Bengal Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Bergamasco",
+    "category": "Animals"
+  },
+  {
+    "name": "Berger Picard",
+    "category": "Animals"
+  },
+  {
+    "name": "Bernedoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Bernese Mountain Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Bernese Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Bhutan Takin",
+    "category": "Animals"
+  },
+  {
+    "name": "Bichon Frise",
+    "category": "Animals"
+  },
+  {
+    "name": "Bichpoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Biewer Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Bighorn Sheep",
+    "category": "Animals"
+  },
+  {
+    "name": "Bilby",
+    "category": "Animals"
+  },
+  {
+    "name": "Binturong",
+    "category": "Animals"
+  },
+  {
+    "name": "Birman",
+    "category": "Animals"
+  },
+  {
+    "name": "Bison",
+    "category": "Animals"
+  },
+  {
+    "name": "Black And Tan Coonhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Black Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "Black Russian Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Black-Footed Ferret",
+    "category": "Animals"
+  },
+  {
+    "name": "Bloodhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Blue Lacy Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Blue Picardy Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Blue Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Bluetick Coonhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Bobcat",
+    "category": "Animals"
+  },
+  {
+    "name": "Boer Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Boggle",
+    "category": "Animals"
+  },
+  {
+    "name": "Boglen Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Bolognese Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Bombay",
+    "category": "Animals"
+  },
+  {
+    "name": "Bongo",
+    "category": "Animals"
+  },
+  {
+    "name": "Bonobo",
+    "category": "Animals"
+  },
+  {
+    "name": "Borador",
+    "category": "Animals"
+  },
+  {
+    "name": "Border Collie",
+    "category": "Animals"
+  },
+  {
+    "name": "Border Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Bordoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Borkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Bornean Orangutan",
+    "category": "Animals"
+  },
+  {
+    "name": "Borneo Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "Boston Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Bottlenose Dolphin",
+    "category": "Animals"
+  },
+  {
+    "name": "Bouvier Des Flandres",
+    "category": "Animals"
+  },
+  {
+    "name": "Bowhead Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Boxador",
+    "category": "Animals"
+  },
+  {
+    "name": "Boxer Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Boxerdoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Boxsky",
+    "category": "Animals"
+  },
+  {
+    "name": "Boxweiler",
+    "category": "Animals"
+  },
+  {
+    "name": "Boykin Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Brazilian Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "British Timber",
+    "category": "Animals"
+  },
+  {
+    "name": "Brittany",
+    "category": "Animals"
+  },
+  {
+    "name": "Brown Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Brown Hyena",
+    "category": "Animals"
+  },
+  {
+    "name": "Brug",
+    "category": "Animals"
+  },
+  {
+    "name": "Brussels Griffon",
+    "category": "Animals"
+  },
+  {
+    "name": "Buffalo",
+    "category": "Animals"
+  },
+  {
+    "name": "Bull Shark",
+    "category": "Animals"
+  },
+  {
+    "name": "Bull Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Bulldog",
+    "category": "Animals"
+  },
+  {
+    "name": "Bullmastiff",
+    "category": "Animals"
+  },
+  {
+    "name": "Burmese",
+    "category": "Animals"
+  },
+  {
+    "name": "Bush Baby",
+    "category": "Animals"
+  },
+  {
+    "name": "Cactus Mouse",
+    "category": "Animals"
+  },
+  {
+    "name": "Cairn Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Camel",
+    "category": "Animals"
+  },
+  {
+    "name": "Canaan Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Canada Lynx",
+    "category": "Animals"
+  },
+  {
+    "name": "Canadian Eskimo Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Canadian Horse",
+    "category": "Animals"
+  },
+  {
+    "name": "Cane Corso",
+    "category": "Animals"
+  },
+  {
+    "name": "Cape Lion",
+    "category": "Animals"
+  },
+  {
+    "name": "Capybara",
+    "category": "Animals"
+  },
+  {
+    "name": "Caracal",
+    "category": "Animals"
+  },
+  {
+    "name": "Caribou",
+    "category": "Animals"
+  },
+  {
+    "name": "Carolina Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Cashmere Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Cat",
+    "category": "Animals"
+  },
+  {
+    "name": "Catahoula Leopard",
+    "category": "Animals"
+  },
+  {
+    "name": "Catalan Sheepdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Cava Tzu",
+    "category": "Animals"
+  },
+  {
+    "name": "Cavador",
+    "category": "Animals"
+  },
+  {
+    "name": "Cavalier King Charles Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Cavapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Cesky Fousek",
+    "category": "Animals"
+  },
+  {
+    "name": "Cesky Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Chamois",
+    "category": "Animals"
+  },
+  {
+    "name": "Chartreux",
+    "category": "Animals"
+  },
+  {
+    "name": "Cheagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Cheetah",
+    "category": "Animals"
+  },
+  {
+    "name": "Chesapeake Bay Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Chihuahua",
+    "category": "Animals"
+  },
+  {
+    "name": "Chimpanzee",
+    "category": "Animals"
+  },
+  {
+    "name": "Chinchilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Chinese Crested Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Chinese Shar-Pei",
+    "category": "Animals"
+  },
+  {
+    "name": "Chinook",
+    "category": "Animals"
+  },
+  {
+    "name": "Chipmunk",
+    "category": "Animals"
+  },
+  {
+    "name": "Chipoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Chiweenie",
+    "category": "Animals"
+  },
+  {
+    "name": "Chorkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Chow Chow",
+    "category": "Animals"
+  },
+  {
+    "name": "Chow Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Cinnamon Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Cinnamon Ferret",
+    "category": "Animals"
+  },
+  {
+    "name": "Clouded Leopard",
+    "category": "Animals"
+  },
+  {
+    "name": "Clumber Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Coati",
+    "category": "Animals"
+  },
+  {
+    "name": "Cockalier",
+    "category": "Animals"
+  },
+  {
+    "name": "Cockapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Cocker Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Collared Peccary",
+    "category": "Animals"
+  },
+  {
+    "name": "Collie",
+    "category": "Animals"
+  },
+  {
+    "name": "Common Spotted Cuscus",
+    "category": "Animals"
+  },
+  {
+    "name": "Common Toad",
+    "category": "Animals"
+  },
+  {
+    "name": "Corgidor",
+    "category": "Animals"
+  },
+  {
+    "name": "Corgipoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Corkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Corman Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Corn Rex Cat (Cornish Rex)",
+    "category": "Animals"
+  },
+  {
+    "name": "Coton de Tulear",
+    "category": "Animals"
+  },
+  {
+    "name": "Cotton-top Tamarin",
+    "category": "Animals"
+  },
+  {
+    "name": "Coues Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Cougar",
+    "category": "Animals"
+  },
+  {
+    "name": "Cow",
+    "category": "Animals"
+  },
+  {
+    "name": "Coyote",
+    "category": "Animals"
+  },
+  {
+    "name": "Crab-Eating Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Crab-Eating Macaque",
+    "category": "Animals"
+  },
+  {
+    "name": "Crabeater Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Cross Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Cross River Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Curly Coated Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Czechoslovakian Wolfdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Dachsador",
+    "category": "Animals"
+  },
+  {
+    "name": "Dachshund",
+    "category": "Animals"
+  },
+  {
+    "name": "Dalmadoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Dalmador",
+    "category": "Animals"
+  },
+  {
+    "name": "Dalmatian",
+    "category": "Animals"
+  },
+  {
+    "name": "Dapple Dachshund",
+    "category": "Animals"
+  },
+  {
+    "name": "Darwin’s fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Deer Head Chihuahua",
+    "category": "Animals"
+  },
+  {
+    "name": "Deer Mouse",
+    "category": "Animals"
+  },
+  {
+    "name": "Deutsche Bracke",
+    "category": "Animals"
+  },
+  {
+    "name": "Devon Rex",
+    "category": "Animals"
+  },
+  {
+    "name": "Dhole",
+    "category": "Animals"
+  },
+  {
+    "name": "Dik-Dik",
+    "category": "Animals"
+  },
+  {
+    "name": "Diminutive Woodrat",
+    "category": "Animals"
+  },
+  {
+    "name": "Dingo",
+    "category": "Animals"
+  },
+  {
+    "name": "Doberman Pinscher",
+    "category": "Animals"
+  },
+  {
+    "name": "Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Dogo Argentino",
+    "category": "Animals"
+  },
+  {
+    "name": "Dogue De Bordeaux",
+    "category": "Animals"
+  },
+  {
+    "name": "Dolphin",
+    "category": "Animals"
+  },
+  {
+    "name": "Donkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Dorgi",
+    "category": "Animals"
+  },
+  {
+    "name": "Dorkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Dormouse",
+    "category": "Animals"
+  },
+  {
+    "name": "Double Doodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Douc",
+    "category": "Animals"
+  },
+  {
+    "name": "Doxiepoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Doxle",
+    "category": "Animals"
+  },
+  {
+    "name": "Drever",
+    "category": "Animals"
+  },
+  {
+    "name": "Dugong",
+    "category": "Animals"
+  },
+  {
+    "name": "Dunker",
+    "category": "Animals"
+  },
+  {
+    "name": "Dusky Dolphin",
+    "category": "Animals"
+  },
+  {
+    "name": "Dwarf Hamster",
+    "category": "Animals"
+  },
+  {
+    "name": "Eastern Barred Bandicoot",
+    "category": "Animals"
+  },
+  {
+    "name": "Eastern Chipmunk",
+    "category": "Animals"
+  },
+  {
+    "name": "Eastern Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Eastern Lowland Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Echidna",
+    "category": "Animals"
+  },
+  {
+    "name": "Egyptian Mau",
+    "category": "Animals"
+  },
+  {
+    "name": "Eland",
+    "category": "Animals"
+  },
+  {
+    "name": "Elasmotherium",
+    "category": "Animals"
+  },
+  {
+    "name": "Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "Elephant Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Elephant Shrew",
+    "category": "Animals"
+  },
+  {
+    "name": "Elk",
+    "category": "Animals"
+  },
+  {
+    "name": "Emperor Tamarin",
+    "category": "Animals"
+  },
+  {
+    "name": "English Angora Rabbit",
+    "category": "Animals"
+  },
+  {
+    "name": "English Bulldog",
+    "category": "Animals"
+  },
+  {
+    "name": "English Cocker Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "English Cream Golden Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "English Foxhound",
+    "category": "Animals"
+  },
+  {
+    "name": "English Pointer",
+    "category": "Animals"
+  },
+  {
+    "name": "English Setter",
+    "category": "Animals"
+  },
+  {
+    "name": "English Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "English Springer Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Entlebucher Mountain Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Epagneul Pont Audemer",
+    "category": "Animals"
+  },
+  {
+    "name": "Ermine",
+    "category": "Animals"
+  },
+  {
+    "name": "Eskimo Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Eskipoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Estrela Mountain Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Eurasian Beaver",
+    "category": "Animals"
+  },
+  {
+    "name": "Eurasian Lynx",
+    "category": "Animals"
+  },
+  {
+    "name": "Eurasian Wolf",
+    "category": "Animals"
+  },
+  {
+    "name": "European Polecat",
+    "category": "Animals"
+  },
+  {
+    "name": "European Wildcat",
+    "category": "Animals"
+  },
+  {
+    "name": "Evening Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Fallow deer",
+    "category": "Animals"
+  },
+  {
+    "name": "False Killer Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Feist",
+    "category": "Animals"
+  },
+  {
+    "name": "Fennec Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Ferret",
+    "category": "Animals"
+  },
+  {
+    "name": "Field Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Fila Brasileiro",
+    "category": "Animals"
+  },
+  {
+    "name": "Fin Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Finnish Spitz",
+    "category": "Animals"
+  },
+  {
+    "name": "Fisher",
+    "category": "Animals"
+  },
+  {
+    "name": "Fishing Cat",
+    "category": "Animals"
+  },
+  {
+    "name": "Flat-Coated Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Florida Mouse",
+    "category": "Animals"
+  },
+  {
+    "name": "Florida Panther",
+    "category": "Animals"
+  },
+  {
+    "name": "Flying Lemur",
+    "category": "Animals"
+  },
+  {
+    "name": "Flying Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Formosan Mountain Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Fossa",
+    "category": "Animals"
+  },
+  {
+    "name": "Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Fox Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Fox Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "French Bulldog",
+    "category": "Animals"
+  },
+  {
+    "name": "Frenchton",
+    "category": "Animals"
+  },
+  {
+    "name": "Frengle",
+    "category": "Animals"
+  },
+  {
+    "name": "Fruit Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Fur Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Gazelle",
+    "category": "Animals"
+  },
+  {
+    "name": "Genet",
+    "category": "Animals"
+  },
+  {
+    "name": "Geoffroys Tamarin",
+    "category": "Animals"
+  },
+  {
+    "name": "Gerberian Shepsky",
+    "category": "Animals"
+  },
+  {
+    "name": "Gerbil",
+    "category": "Animals"
+  },
+  {
+    "name": "German Pinscher",
+    "category": "Animals"
+  },
+  {
+    "name": "German Shepherd Guide",
+    "category": "Animals"
+  },
+  {
+    "name": "German Sheppit",
+    "category": "Animals"
+  },
+  {
+    "name": "German Sheprador",
+    "category": "Animals"
+  },
+  {
+    "name": "German Shorthaired Pointer",
+    "category": "Animals"
+  },
+  {
+    "name": "German Spitz",
+    "category": "Animals"
+  },
+  {
+    "name": "Giant Armadillo",
+    "category": "Animals"
+  },
+  {
+    "name": "Giant Golden Mole",
+    "category": "Animals"
+  },
+  {
+    "name": "Giant Panda Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Giant Schnauzer",
+    "category": "Animals"
+  },
+  {
+    "name": "Giant Schnoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Gibbon",
+    "category": "Animals"
+  },
+  {
+    "name": "Giraffe",
+    "category": "Animals"
+  },
+  {
+    "name": "Glechon",
+    "category": "Animals"
+  },
+  {
+    "name": "Glen Of Imaal Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Goberian",
+    "category": "Animals"
+  },
+  {
+    "name": "Goldador",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Dox",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Jackal",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Lion Tamarin",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Mole",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Newfie",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Pyrenees",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Saint",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Golden-Crowned Flying Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Goldendoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Gopher",
+    "category": "Animals"
+  },
+  {
+    "name": "Goral",
+    "category": "Animals"
+  },
+  {
+    "name": "Gordon Setter",
+    "category": "Animals"
+  },
+  {
+    "name": "Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Grasshopper Mouse",
+    "category": "Animals"
+  },
+  {
+    "name": "Gray Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Great Dane",
+    "category": "Animals"
+  },
+  {
+    "name": "Great Danoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Great Pyrenees",
+    "category": "Animals"
+  },
+  {
+    "name": "Greater Swiss Mountain Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Greenland Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Grey Mouse Lemur",
+    "category": "Animals"
+  },
+  {
+    "name": "Grey Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Greyhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Griffonshire",
+    "category": "Animals"
+  },
+  {
+    "name": "Grizzly Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Groenendael",
+    "category": "Animals"
+  },
+  {
+    "name": "Ground Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Guinea Pig",
+    "category": "Animals"
+  },
+  {
+    "name": "Hamster",
+    "category": "Animals"
+  },
+  {
+    "name": "Harbor Porpoise",
+    "category": "Animals"
+  },
+  {
+    "name": "Harbor Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Hare",
+    "category": "Animals"
+  },
+  {
+    "name": "Harp Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Harrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Hartebeest",
+    "category": "Animals"
+  },
+  {
+    "name": "Havanese",
+    "category": "Animals"
+  },
+  {
+    "name": "Havapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Havashire",
+    "category": "Animals"
+  },
+  {
+    "name": "Hawaiian Monk Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Hedgehog",
+    "category": "Animals"
+  },
+  {
+    "name": "Highland Cattle",
+    "category": "Animals"
+  },
+  {
+    "name": "Himalayan",
+    "category": "Animals"
+  },
+  {
+    "name": "Hippopotamus",
+    "category": "Animals"
+  },
+  {
+    "name": "Hoary Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Hokkaido",
+    "category": "Animals"
+  },
+  {
+    "name": "Honduran White Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Honey Badger",
+    "category": "Animals"
+  },
+  {
+    "name": "Hooded Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Horgi",
+    "category": "Animals"
+  },
+  {
+    "name": "Horse",
+    "category": "Animals"
+  },
+  {
+    "name": "Howler Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Human",
+    "category": "Animals"
+  },
+  {
+    "name": "Huntaway",
+    "category": "Animals"
+  },
+  {
+    "name": "Huskador",
+    "category": "Animals"
+  },
+  {
+    "name": "Huskita",
+    "category": "Animals"
+  },
+  {
+    "name": "Husky",
+    "category": "Animals"
+  },
+  {
+    "name": "Husky Jack",
+    "category": "Animals"
+  },
+  {
+    "name": "Huskydoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Hyena",
+    "category": "Animals"
+  },
+  {
+    "name": "Ibex",
+    "category": "Animals"
+  },
+  {
+    "name": "Ibizan Hound",
+    "category": "Animals"
+  },
+  {
+    "name": "Icelandic Sheepdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Impala",
+    "category": "Animals"
+  },
+  {
+    "name": "Indian Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "Indian Giant Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Indian Palm Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Indian Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "Indochinese Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Indri",
+    "category": "Animals"
+  },
+  {
+    "name": "Irish Doodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Irish Setter",
+    "category": "Animals"
+  },
+  {
+    "name": "Irish Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Irish Water Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Irish WolfHound",
+    "category": "Animals"
+  },
+  {
+    "name": "Italian Greyhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Jack Russells",
+    "category": "Animals"
+  },
+  {
+    "name": "Jackabee",
+    "category": "Animals"
+  },
+  {
+    "name": "Jackal",
+    "category": "Animals"
+  },
+  {
+    "name": "Jackrabbit",
+    "category": "Animals"
+  },
+  {
+    "name": "Jaguar",
+    "category": "Animals"
+  },
+  {
+    "name": "Jaguarundi Cat",
+    "category": "Animals"
+  },
+  {
+    "name": "Japanese Chin",
+    "category": "Animals"
+  },
+  {
+    "name": "Japanese Macaque",
+    "category": "Animals"
+  },
+  {
+    "name": "Japanese Spitz",
+    "category": "Animals"
+  },
+  {
+    "name": "Japanese Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Japanese Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Javan Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "Javanese",
+    "category": "Animals"
+  },
+  {
+    "name": "Jerboa",
+    "category": "Animals"
+  },
+  {
+    "name": "Kai Ken",
+    "category": "Animals"
+  },
+  {
+    "name": "Kangal Shepherd Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Kangaroo",
+    "category": "Animals"
+  },
+  {
+    "name": "Kangaroo Rat",
+    "category": "Animals"
+  },
+  {
+    "name": "Kermode Bear (Spirit Bear)",
+    "category": "Animals"
+  },
+  {
+    "name": "Kerry Blue Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Key Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Kiang",
+    "category": "Animals"
+  },
+  {
+    "name": "Kiko Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Killer Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Killifish",
+    "category": "Animals"
+  },
+  {
+    "name": "Kinder Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "King Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Kinkajou",
+    "category": "Animals"
+  },
+  {
+    "name": "Kishu",
+    "category": "Animals"
+  },
+  {
+    "name": "Kit Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Koala",
+    "category": "Animals"
+  },
+  {
+    "name": "Kodkod",
+    "category": "Animals"
+  },
+  {
+    "name": "Kooikerhondje",
+    "category": "Animals"
+  },
+  {
+    "name": "Koolie",
+    "category": "Animals"
+  },
+  {
+    "name": "Kouprey",
+    "category": "Animals"
+  },
+  {
+    "name": "Kudu",
+    "category": "Animals"
+  },
+  {
+    "name": "Kuvasz",
+    "category": "Animals"
+  },
+  {
+    "name": "Labahoula",
+    "category": "Animals"
+  },
+  {
+    "name": "Labmaraner",
+    "category": "Animals"
+  },
+  {
+    "name": "Labradane",
+    "category": "Animals"
+  },
+  {
+    "name": "Labradoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Labrador Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Labraheeler",
+    "category": "Animals"
+  },
+  {
+    "name": "Lakeland Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "LaMancha Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Lancashire Heeler",
+    "category": "Animals"
+  },
+  {
+    "name": "Lapponian Herder",
+    "category": "Animals"
+  },
+  {
+    "name": "Lemming",
+    "category": "Animals"
+  },
+  {
+    "name": "Lemur",
+    "category": "Animals"
+  },
+  {
+    "name": "Leonberger",
+    "category": "Animals"
+  },
+  {
+    "name": "Leopard",
+    "category": "Animals"
+  },
+  {
+    "name": "Leopard Cat",
+    "category": "Animals"
+  },
+  {
+    "name": "Leopard Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Lhasa Apso",
+    "category": "Animals"
+  },
+  {
+    "name": "Lhasapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Liger",
+    "category": "Animals"
+  },
+  {
+    "name": "Lion",
+    "category": "Animals"
+  },
+  {
+    "name": "Little Brown Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Livyatan",
+    "category": "Animals"
+  },
+  {
+    "name": "Llama",
+    "category": "Animals"
+  },
+  {
+    "name": "Long-Haired Rottweiler",
+    "category": "Animals"
+  },
+  {
+    "name": "Loris",
+    "category": "Animals"
+  },
+  {
+    "name": "Lowchen",
+    "category": "Animals"
+  },
+  {
+    "name": "Lynx",
+    "category": "Animals"
+  },
+  {
+    "name": "Macaque",
+    "category": "Animals"
+  },
+  {
+    "name": "Mackenzie Valley Wolf",
+    "category": "Animals"
+  },
+  {
+    "name": "Maine Coon",
+    "category": "Animals"
+  },
+  {
+    "name": "Malayan Civet",
+    "category": "Animals"
+  },
+  {
+    "name": "Malayan Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Malchi",
+    "category": "Animals"
+  },
+  {
+    "name": "Malteagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Maltese",
+    "category": "Animals"
+  },
+  {
+    "name": "Maltese Shih Tzu",
+    "category": "Animals"
+  },
+  {
+    "name": "Maltipoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Manatee",
+    "category": "Animals"
+  },
+  {
+    "name": "Manchester Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Mandrill",
+    "category": "Animals"
+  },
+  {
+    "name": "Maned Wolf",
+    "category": "Animals"
+  },
+  {
+    "name": "Marble Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Margay",
+    "category": "Animals"
+  },
+  {
+    "name": "Markhor",
+    "category": "Animals"
+  },
+  {
+    "name": "Marmoset",
+    "category": "Animals"
+  },
+  {
+    "name": "Marmot",
+    "category": "Animals"
+  },
+  {
+    "name": "Marsican Brown Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Masked Palm Civet",
+    "category": "Animals"
+  },
+  {
+    "name": "Mastador",
+    "category": "Animals"
+  },
+  {
+    "name": "Mastiff",
+    "category": "Animals"
+  },
+  {
+    "name": "Meagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Meerkat",
+    "category": "Animals"
+  },
+  {
+    "name": "Mexican Free-Tailed Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Miki",
+    "category": "Animals"
+  },
+  {
+    "name": "Mini Labradoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Miniature Bull Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Miniature Pinscher",
+    "category": "Animals"
+  },
+  {
+    "name": "Mink",
+    "category": "Animals"
+  },
+  {
+    "name": "Minke Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Mole",
+    "category": "Animals"
+  },
+  {
+    "name": "Mongoose",
+    "category": "Animals"
+  },
+  {
+    "name": "Mongrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Moorhen",
+    "category": "Animals"
+  },
+  {
+    "name": "Moose",
+    "category": "Animals"
+  },
+  {
+    "name": "Morkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Moscow Watchdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Mountain Cur",
+    "category": "Animals"
+  },
+  {
+    "name": "Mountain Feist",
+    "category": "Animals"
+  },
+  {
+    "name": "Mountain Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Mountain Lion",
+    "category": "Animals"
+  },
+  {
+    "name": "Mouse",
+    "category": "Animals"
+  },
+  {
+    "name": "Mudi",
+    "category": "Animals"
+  },
+  {
+    "name": "Mule",
+    "category": "Animals"
+  },
+  {
+    "name": "Mule Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Muntjac",
+    "category": "Animals"
+  },
+  {
+    "name": "Musk Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Muskox",
+    "category": "Animals"
+  },
+  {
+    "name": "Muskrat",
+    "category": "Animals"
+  },
+  {
+    "name": "Nabarlek",
+    "category": "Animals"
+  },
+  {
+    "name": "Naked Mole Rat",
+    "category": "Animals"
+  },
+  {
+    "name": "Narwhal",
+    "category": "Animals"
+  },
+  {
+    "name": "Neanderthal",
+    "category": "Animals"
+  },
+  {
+    "name": "Neapolitan Mastiff",
+    "category": "Animals"
+  },
+  {
+    "name": "Nebelung",
+    "category": "Animals"
+  },
+  {
+    "name": "Netherland Dwarf Rabbit",
+    "category": "Animals"
+  },
+  {
+    "name": "Newfoundland",
+    "category": "Animals"
+  },
+  {
+    "name": "Newfypoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Nigerian Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Nilgai",
+    "category": "Animals"
+  },
+  {
+    "name": "Norfolk Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "North American Black Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Northern Fur Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Northern Inuit Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Norwegian Buhund",
+    "category": "Animals"
+  },
+  {
+    "name": "Norwegian Elkhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Norwegian Forest",
+    "category": "Animals"
+  },
+  {
+    "name": "Norwegian Lundehund",
+    "category": "Animals"
+  },
+  {
+    "name": "Norwich Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Nubian Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Numbat",
+    "category": "Animals"
+  },
+  {
+    "name": "Nutria",
+    "category": "Animals"
+  },
+  {
+    "name": "Nyala",
+    "category": "Animals"
+  },
+  {
+    "name": "Ocelot",
+    "category": "Animals"
+  },
+  {
+    "name": "Okapi",
+    "category": "Animals"
+  },
+  {
+    "name": "Old English Sheepdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Olingo",
+    "category": "Animals"
+  },
+  {
+    "name": "Olive Baboon",
+    "category": "Animals"
+  },
+  {
+    "name": "Onager",
+    "category": "Animals"
+  },
+  {
+    "name": "Opossum",
+    "category": "Animals"
+  },
+  {
+    "name": "Orangutan",
+    "category": "Animals"
+  },
+  {
+    "name": "Oribi",
+    "category": "Animals"
+  },
+  {
+    "name": "Otter",
+    "category": "Animals"
+  },
+  {
+    "name": "Otterhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Ox",
+    "category": "Animals"
+  },
+  {
+    "name": "Pademelon",
+    "category": "Animals"
+  },
+  {
+    "name": "Pangolin",
+    "category": "Animals"
+  },
+  {
+    "name": "Panther",
+    "category": "Animals"
+  },
+  {
+    "name": "Papillon",
+    "category": "Animals"
+  },
+  {
+    "name": "Parson Russell Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Patagonian Cavy",
+    "category": "Animals"
+  },
+  {
+    "name": "Patagonian Mara",
+    "category": "Animals"
+  },
+  {
+    "name": "Patas Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Patterdale Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Peagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Peekapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Pekingese",
+    "category": "Animals"
+  },
+  {
+    "name": "Pembroke Welsh Corgi",
+    "category": "Animals"
+  },
+  {
+    "name": "Père David’s Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Perro De Presa Canario",
+    "category": "Animals"
+  },
+  {
+    "name": "Persian",
+    "category": "Animals"
+  },
+  {
+    "name": "Peruvian Inca Orchid",
+    "category": "Animals"
+  },
+  {
+    "name": "Petit Basset Griffon Vendéen",
+    "category": "Animals"
+  },
+  {
+    "name": "Petite Goldendoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Pheasant",
+    "category": "Animals"
+  },
+  {
+    "name": "Pied Tamarin",
+    "category": "Animals"
+  },
+  {
+    "name": "Pig",
+    "category": "Animals"
+  },
+  {
+    "name": "Pika",
+    "category": "Animals"
+  },
+  {
+    "name": "Pine Marten",
+    "category": "Animals"
+  },
+  {
+    "name": "Pink Fairy Armadillo",
+    "category": "Animals"
+  },
+  {
+    "name": "Pit Bull",
+    "category": "Animals"
+  },
+  {
+    "name": "Pitador",
+    "category": "Animals"
+  },
+  {
+    "name": "Pitsky",
+    "category": "Animals"
+  },
+  {
+    "name": "Platypus",
+    "category": "Animals"
+  },
+  {
+    "name": "Pocket Beagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Pocket Pitbull",
+    "category": "Animals"
+  },
+  {
+    "name": "Pointer",
+    "category": "Animals"
+  },
+  {
+    "name": "Polar Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Polish Lowland Sheepdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Pomapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Pomchi",
+    "category": "Animals"
+  },
+  {
+    "name": "Pomeagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Pomeranian",
+    "category": "Animals"
+  },
+  {
+    "name": "Pomsky",
+    "category": "Animals"
+  },
+  {
+    "name": "Poochon",
+    "category": "Animals"
+  },
+  {
+    "name": "Poodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Poogle",
+    "category": "Animals"
+  },
+  {
+    "name": "Porcupine",
+    "category": "Animals"
+  },
+  {
+    "name": "Possum",
+    "category": "Animals"
+  },
+  {
+    "name": "Potoroo",
+    "category": "Animals"
+  },
+  {
+    "name": "Prairie Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Proboscis Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Procoptodon",
+    "category": "Animals"
+  },
+  {
+    "name": "Pronghorn",
+    "category": "Animals"
+  },
+  {
+    "name": "Pudelpointer",
+    "category": "Animals"
+  },
+  {
+    "name": "Pug",
+    "category": "Animals"
+  },
+  {
+    "name": "Pugapoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Puggle",
+    "category": "Animals"
+  },
+  {
+    "name": "Pugshire",
+    "category": "Animals"
+  },
+  {
+    "name": "Puma",
+    "category": "Animals"
+  },
+  {
+    "name": "Pumi",
+    "category": "Animals"
+  },
+  {
+    "name": "Pygmy Hippopotamus",
+    "category": "Animals"
+  },
+  {
+    "name": "Pygmy Marmoset (Finger Monkey)",
+    "category": "Animals"
+  },
+  {
+    "name": "Pygora Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Pyrador",
+    "category": "Animals"
+  },
+  {
+    "name": "Pyredoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Quagga",
+    "category": "Animals"
+  },
+  {
+    "name": "Quokka",
+    "category": "Animals"
+  },
+  {
+    "name": "Quoll",
+    "category": "Animals"
+  },
+  {
+    "name": "Rabbit",
+    "category": "Animals"
+  },
+  {
+    "name": "Raccoon",
+    "category": "Animals"
+  },
+  {
+    "name": "Raccoon Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Ragamuffin",
+    "category": "Animals"
+  },
+  {
+    "name": "Ragdoll",
+    "category": "Animals"
+  },
+  {
+    "name": "Raggle",
+    "category": "Animals"
+  },
+  {
+    "name": "Rat",
+    "category": "Animals"
+  },
+  {
+    "name": "Rat Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Red Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Red Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Red Panda",
+    "category": "Animals"
+  },
+  {
+    "name": "Red Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Red Wolf",
+    "category": "Animals"
+  },
+  {
+    "name": "Red-handed Tamarin",
+    "category": "Animals"
+  },
+  {
+    "name": "Redbone Coonhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Reindeer",
+    "category": "Animals"
+  },
+  {
+    "name": "Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "River Otter",
+    "category": "Animals"
+  },
+  {
+    "name": "Rock Hyrax",
+    "category": "Animals"
+  },
+  {
+    "name": "Rodents",
+    "category": "Animals"
+  },
+  {
+    "name": "Roe Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Roosevelt Elk",
+    "category": "Animals"
+  },
+  {
+    "name": "Rottsky",
+    "category": "Animals"
+  },
+  {
+    "name": "Rottweiler",
+    "category": "Animals"
+  },
+  {
+    "name": "Russell Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Russian Bear Dog",
+    "category": "Animals"
+  },
+  {
+    "name": "Russian Blue",
+    "category": "Animals"
+  },
+  {
+    "name": "Saanen Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Saarloos Wolfdog",
+    "category": "Animals"
+  },
+  {
+    "name": "Saber-Toothed Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Sable",
+    "category": "Animals"
+  },
+  {
+    "name": "Sable Black German Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Sable Ferret",
+    "category": "Animals"
+  },
+  {
+    "name": "Saiga",
+    "category": "Animals"
+  },
+  {
+    "name": "Saint Berdoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Saint Bernard",
+    "category": "Animals"
+  },
+  {
+    "name": "Saint Shepherd",
+    "category": "Animals"
+  },
+  {
+    "name": "Saluki",
+    "category": "Animals"
+  },
+  {
+    "name": "Sambar",
+    "category": "Animals"
+  },
+  {
+    "name": "Samoyed",
+    "category": "Animals"
+  },
+  {
+    "name": "Saola",
+    "category": "Animals"
+  },
+  {
+    "name": "Savanna Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Schipperke",
+    "category": "Animals"
+  },
+  {
+    "name": "Schneagle",
+    "category": "Animals"
+  },
+  {
+    "name": "Schnoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Scimitar-horned Oryx",
+    "category": "Animals"
+  },
+  {
+    "name": "Scottish Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Sea Lion",
+    "category": "Animals"
+  },
+  {
+    "name": "Sea Otter",
+    "category": "Animals"
+  },
+  {
+    "name": "Seal",
+    "category": "Animals"
+  },
+  {
+    "name": "Sealyham Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Sei Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Serval",
+    "category": "Animals"
+  },
+  {
+    "name": "Sheep",
+    "category": "Animals"
+  },
+  {
+    "name": "Sheepadoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Shepadoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Shepkita",
+    "category": "Animals"
+  },
+  {
+    "name": "Shepweiler",
+    "category": "Animals"
+  },
+  {
+    "name": "Shiba Inu",
+    "category": "Animals"
+  },
+  {
+    "name": "Shih Poo",
+    "category": "Animals"
+  },
+  {
+    "name": "Shih Tzu",
+    "category": "Animals"
+  },
+  {
+    "name": "Shollie",
+    "category": "Animals"
+  },
+  {
+    "name": "Shrew",
+    "category": "Animals"
+  },
+  {
+    "name": "Siamese",
+    "category": "Animals"
+  },
+  {
+    "name": "Siberian",
+    "category": "Animals"
+  },
+  {
+    "name": "Siberian Husky",
+    "category": "Animals"
+  },
+  {
+    "name": "Siberian Ibex",
+    "category": "Animals"
+  },
+  {
+    "name": "Siberian Retriever",
+    "category": "Animals"
+  },
+  {
+    "name": "Siberian Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Siberpoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Sichuan Takin (Tibetan Takin)",
+    "category": "Animals"
+  },
+  {
+    "name": "Silky Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Silver Labrador",
+    "category": "Animals"
+  },
+  {
+    "name": "Skunk",
+    "category": "Animals"
+  },
+  {
+    "name": "Skye Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Sloth",
+    "category": "Animals"
+  },
+  {
+    "name": "Smooth Fox Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Snorkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Snow Leopard",
+    "category": "Animals"
+  },
+  {
+    "name": "Snowshoe",
+    "category": "Animals"
+  },
+  {
+    "name": "Snowshoe Hare",
+    "category": "Animals"
+  },
+  {
+    "name": "Somali",
+    "category": "Animals"
+  },
+  {
+    "name": "South China Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Spalax",
+    "category": "Animals"
+  },
+  {
+    "name": "Spanador",
+    "category": "Animals"
+  },
+  {
+    "name": "Spanish Goat",
+    "category": "Animals"
+  },
+  {
+    "name": "Spanish Mastiff",
+    "category": "Animals"
+  },
+  {
+    "name": "Spectacled Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Sperm Whale",
+    "category": "Animals"
+  },
+  {
+    "name": "Sphynx",
+    "category": "Animals"
+  },
+  {
+    "name": "Spider Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Spinone Italiano",
+    "category": "Animals"
+  },
+  {
+    "name": "Spotted Skunk",
+    "category": "Animals"
+  },
+  {
+    "name": "Springbok",
+    "category": "Animals"
+  },
+  {
+    "name": "Springerdoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Squirrel Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Sri Lankan Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "Stabyhoun",
+    "category": "Animals"
+  },
+  {
+    "name": "Staffordshire Bull Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Standard Schnauzer",
+    "category": "Animals"
+  },
+  {
+    "name": "Star-nosed mole",
+    "category": "Animals"
+  },
+  {
+    "name": "Steller’s Sea Cow",
+    "category": "Animals"
+  },
+  {
+    "name": "Stoat",
+    "category": "Animals"
+  },
+  {
+    "name": "Striped Hyena",
+    "category": "Animals"
+  },
+  {
+    "name": "Sugar Glider",
+    "category": "Animals"
+  },
+  {
+    "name": "Sumatran Elephant",
+    "category": "Animals"
+  },
+  {
+    "name": "Sumatran Orangutan",
+    "category": "Animals"
+  },
+  {
+    "name": "Sumatran Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "Sumatran Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Sun Bear",
+    "category": "Animals"
+  },
+  {
+    "name": "Swedish Vallhund",
+    "category": "Animals"
+  },
+  {
+    "name": "Syrian Hamster",
+    "category": "Animals"
+  },
+  {
+    "name": "Taco Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Takin",
+    "category": "Animals"
+  },
+  {
+    "name": "Tamaskan",
+    "category": "Animals"
+  },
+  {
+    "name": "Tapanuli Orangutan",
+    "category": "Animals"
+  },
+  {
+    "name": "Tapir",
+    "category": "Animals"
+  },
+  {
+    "name": "Tarsier",
+    "category": "Animals"
+  },
+  {
+    "name": "Tasmanian Devil",
+    "category": "Animals"
+  },
+  {
+    "name": "Tasmanian Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Teacup Miniature Horse",
+    "category": "Animals"
+  },
+  {
+    "name": "Teddy Bear Hamster",
+    "category": "Animals"
+  },
+  {
+    "name": "Teddy Roosevelt Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Tennessee Walking Horse",
+    "category": "Animals"
+  },
+  {
+    "name": "Tenrec",
+    "category": "Animals"
+  },
+  {
+    "name": "Tenterfield Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Texas Heeler",
+    "category": "Animals"
+  },
+  {
+    "name": "Thai Ridgeback",
+    "category": "Animals"
+  },
+  {
+    "name": "Tibetan Fox",
+    "category": "Animals"
+  },
+  {
+    "name": "Tibetan Mastiff",
+    "category": "Animals"
+  },
+  {
+    "name": "Tibetan Spaniel",
+    "category": "Animals"
+  },
+  {
+    "name": "Tibetan Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Tiffany",
+    "category": "Animals"
+  },
+  {
+    "name": "Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "Torkie",
+    "category": "Animals"
+  },
+  {
+    "name": "Toy Fox Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Toy Poodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Transylvanian Hound",
+    "category": "Animals"
+  },
+  {
+    "name": "Tree Kangaroo",
+    "category": "Animals"
+  },
+  {
+    "name": "Treeing Tennessee Brindle",
+    "category": "Animals"
+  },
+  {
+    "name": "Treeing Walker Coonhound",
+    "category": "Animals"
+  },
+  {
+    "name": "Tuatara",
+    "category": "Animals"
+  },
+  {
+    "name": "Turkish Angora",
+    "category": "Animals"
+  },
+  {
+    "name": "Uakari",
+    "category": "Animals"
+  },
+  {
+    "name": "Uinta Ground Squirrel",
+    "category": "Animals"
+  },
+  {
+    "name": "Uintatherium",
+    "category": "Animals"
+  },
+  {
+    "name": "Unau (Linnaeus’s Two-Toed Sloth)",
+    "category": "Animals"
+  },
+  {
+    "name": "Utonagan",
+    "category": "Animals"
+  },
+  {
+    "name": "Vampire Bat",
+    "category": "Animals"
+  },
+  {
+    "name": "Vaquita",
+    "category": "Animals"
+  },
+  {
+    "name": "Vervet Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Vicuña",
+    "category": "Animals"
+  },
+  {
+    "name": "Vizsla",
+    "category": "Animals"
+  },
+  {
+    "name": "Vole",
+    "category": "Animals"
+  },
+  {
+    "name": "Volpino Italiano",
+    "category": "Animals"
+  },
+  {
+    "name": "Wallaby",
+    "category": "Animals"
+  },
+  {
+    "name": "Walrus",
+    "category": "Animals"
+  },
+  {
+    "name": "Warthog",
+    "category": "Animals"
+  },
+  {
+    "name": "Water Buffalo",
+    "category": "Animals"
+  },
+  {
+    "name": "Water Vole",
+    "category": "Animals"
+  },
+  {
+    "name": "Waterbuck",
+    "category": "Animals"
+  },
+  {
+    "name": "Weasel",
+    "category": "Animals"
+  },
+  {
+    "name": "Weimaraner",
+    "category": "Animals"
+  },
+  {
+    "name": "Weimardoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Welsh Black Cattle",
+    "category": "Animals"
+  },
+  {
+    "name": "Welsh Corgi",
+    "category": "Animals"
+  },
+  {
+    "name": "Welsh Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "West Highland Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Western Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Western Lowland Gorilla",
+    "category": "Animals"
+  },
+  {
+    "name": "Westiepoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Wheaten Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Whippet",
+    "category": "Animals"
+  },
+  {
+    "name": "White Ferret / Albino Ferrets",
+    "category": "Animals"
+  },
+  {
+    "name": "White Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "White Tiger",
+    "category": "Animals"
+  },
+  {
+    "name": "White-Faced Capuchin",
+    "category": "Animals"
+  },
+  {
+    "name": "White-tail deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Whitetail Deer",
+    "category": "Animals"
+  },
+  {
+    "name": "Whoodle",
+    "category": "Animals"
+  },
+  {
+    "name": "Wild Boar",
+    "category": "Animals"
+  },
+  {
+    "name": "Wildebeest",
+    "category": "Animals"
+  },
+  {
+    "name": "Wire Fox Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Wirehaired Pointing Griffon",
+    "category": "Animals"
+  },
+  {
+    "name": "Wolf",
+    "category": "Animals"
+  },
+  {
+    "name": "Wolverine",
+    "category": "Animals"
+  },
+  {
+    "name": "Wombat",
+    "category": "Animals"
+  },
+  {
+    "name": "Wood Bison",
+    "category": "Animals"
+  },
+  {
+    "name": "Woodrat",
+    "category": "Animals"
+  },
+  {
+    "name": "Woolly Monkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Woolly Rhinoceros",
+    "category": "Animals"
+  },
+  {
+    "name": "Xerus",
+    "category": "Animals"
+  },
+  {
+    "name": "Xoloitzcuintli",
+    "category": "Animals"
+  },
+  {
+    "name": "Yak",
+    "category": "Animals"
+  },
+  {
+    "name": "Yakutian Laika",
+    "category": "Animals"
+  },
+  {
+    "name": "Yoranian",
+    "category": "Animals"
+  },
+  {
+    "name": "Yorkie Bichon",
+    "category": "Animals"
+  },
+  {
+    "name": "Yorkiepoo",
+    "category": "Animals"
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "category": "Animals"
+  },
+  {
+    "name": "Zebra",
+    "category": "Animals"
+  },
+  {
+    "name": "Zebu",
+    "category": "Animals"
+  },
+  {
+    "name": "Zokor",
+    "category": "Animals"
+  },
+  {
+    "name": "Zonkey",
+    "category": "Animals"
+  },
+  {
+    "name": "Zorse",
+    "category": "Animals"
+  },
+  {
+    "name": "Zuchon",
+    "category": "Animals"
+  }
+]

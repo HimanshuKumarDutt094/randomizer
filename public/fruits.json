@@ -1,0 +1,2350 @@
+[
+  {
+    "name": "Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Açaí",
+    "category": "fruits"
+  },
+  {
+    "name": "Acerola Cherries",
+    "category": "fruits"
+  },
+  {
+    "name": "African Breadfruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Akebi Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Alpine Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "African Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Amanatsu Oranges",
+    "category": "fruits"
+  },
+  {
+    "name": "Ambarella",
+    "category": "fruits"
+  },
+  {
+    "name": "Amaou Strawberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Ambrosia Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Ambrosia Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Amla",
+    "category": "fruits"
+  },
+  {
+    "name": "Apricots",
+    "category": "fruits"
+  },
+  {
+    "name": "Annatto",
+    "category": "fruits"
+  },
+  {
+    "name": "Annona",
+    "category": "fruits"
+  },
+  {
+    "name": "Asian Pears",
+    "category": "fruits"
+  },
+  {
+    "name": "Arava Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Asam Kumbang",
+    "category": "fruits"
+  },
+  {
+    "name": "Avocado",
+    "category": "fruits"
+  },
+  {
+    "name": "Babaco",
+    "category": "fruits"
+  },
+  {
+    "name": "Bacuri Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Balsam Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Barbados Cherries",
+    "category": "fruits"
+  },
+  {
+    "name": "Barberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Batuan",
+    "category": "fruits"
+  },
+  {
+    "name": "Batuan",
+    "category": "fruits"
+  },
+  {
+    "name": "Beach Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Bearberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Beechnut",
+    "category": "fruits"
+  },
+  {
+    "name": "Bell Peppers",
+    "category": "fruits"
+  },
+  {
+    "name": "Betel Nut",
+    "category": "fruits"
+  },
+  {
+    "name": "Bilberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Biriba",
+    "category": "fruits"
+  },
+  {
+    "name": "Bitter Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Black Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Blackberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Black Cherries",
+    "category": "fruits"
+  },
+  {
+    "name": "Black Currant",
+    "category": "fruits"
+  },
+  {
+    "name": "Black Mulberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Black Raspberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Black Sapote",
+    "category": "fruits"
+  },
+  {
+    "name": "Blood Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Blood Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Dragon Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Java Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Marble Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Olive",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Pearmain Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Sausage Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Blue Watermelon",
+    "category": "fruits"
+  },
+  {
+    "name": "Blueberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Bottle Gourd",
+    "category": "fruits"
+  },
+  {
+    "name": "Boysenberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Brazilian Guava",
+    "category": "fruits"
+  },
+  {
+    "name": "Brazil Nut",
+    "category": "fruits"
+  },
+  {
+    "name": "Breadfruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Brush Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Cabernet Sauvignon Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Calabash",
+    "category": "fruits"
+  },
+  {
+    "name": "Camu Camu Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Canary Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Canistel Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Cantaloupe",
+    "category": "fruits"
+  },
+  {
+    "name": "Caper Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Carambola",
+    "category": "fruits"
+  },
+  {
+    "name": "Carob",
+    "category": "fruits"
+  },
+  {
+    "name": "Cavendish Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Cedar Bay Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Cempedak",
+    "category": "fruits"
+  },
+  {
+    "name": "Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Chinese Quince",
+    "category": "fruits"
+  },
+  {
+    "name": "Chinese White Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Chinoto Sour Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Churchland Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Citron",
+    "category": "fruits"
+  },
+  {
+    "name": "Clementine",
+    "category": "fruits"
+  },
+  {
+    "name": "Cleopatra Mandarin",
+    "category": "fruits"
+  },
+  {
+    "name": "Coconut",
+    "category": "fruits"
+  },
+  {
+    "name": "Coco plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Conference Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Cornelian Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Cortland Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Cosmic Crisp Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Courgette",
+    "category": "fruits"
+  },
+  {
+    "name": "Crab Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Cranberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Crimson Delight Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Crimson Gold Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Crispin Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Cucumber",
+    "category": "fruits"
+  },
+  {
+    "name": "Custard Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Dabai Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Dangle Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Damson Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Darling Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Darwin’s Barberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Date Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Davidson’s Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Dates",
+    "category": "fruits"
+  },
+  {
+    "name": "Dead Man’s Finger",
+    "category": "fruits"
+  },
+  {
+    "name": "Dekopon",
+    "category": "fruits"
+  },
+  {
+    "name": "Dessert Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Desert Fig",
+    "category": "fruits"
+  },
+  {
+    "name": "Desert Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Desert Quandong",
+    "category": "fruits"
+  },
+  {
+    "name": "Dewberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Dinosaur Eggs",
+    "category": "fruits"
+  },
+  {
+    "name": "Discovery Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Dodder Laurel",
+    "category": "fruits"
+  },
+  {
+    "name": "Double Coconut",
+    "category": "fruits"
+  },
+  {
+    "name": "Dracontomelon",
+    "category": "fruits"
+  },
+  {
+    "name": "Dragon Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Duku Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Durian",
+    "category": "fruits"
+  },
+  {
+    "name": "Emu Berry Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Enterprise Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Evergreen Huckleberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Eggplant",
+    "category": "fruits"
+  },
+  {
+    "name": "Elephant Apple (Chalta)",
+    "category": "fruits"
+  },
+  {
+    "name": "Etrog",
+    "category": "fruits"
+  },
+  {
+    "name": "Elderberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Emu Apple Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Emblica",
+    "category": "fruits"
+  },
+  {
+    "name": "European Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Eastern Hawthorn Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Egg Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Early Gold Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Entawak",
+    "category": "fruits"
+  },
+  {
+    "name": "Elands Sour Fig",
+    "category": "fruits"
+  },
+  {
+    "name": "Ensete",
+    "category": "fruits"
+  },
+  {
+    "name": "Early Girl Tomato",
+    "category": "fruits"
+  },
+  {
+    "name": "Fairchild Tangerines",
+    "category": "fruits"
+  },
+  {
+    "name": "False Mastic Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Farkleberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Fascell Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Fazli Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Feijoa",
+    "category": "fruits"
+  },
+  {
+    "name": "Fe’I Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Fibrous Satinash Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Figs",
+    "category": "fruits"
+  },
+  {
+    "name": "Finger Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Five Flavor Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Flatwoods Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Florida Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Forest Strawberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Fox Grapes",
+    "category": "fruits"
+  },
+  {
+    "name": "Fuji Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Fukushu Kumquat",
+    "category": "fruits"
+  },
+  {
+    "name": "Gala Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Galia Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Gamboge",
+    "category": "fruits"
+  },
+  {
+    "name": "Genip",
+    "category": "fruits"
+  },
+  {
+    "name": "Giant Lau Lau",
+    "category": "fruits"
+  },
+  {
+    "name": "Goji Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Golden Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Golden Delicious Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Golden Kiwi",
+    "category": "fruits"
+  },
+  {
+    "name": "Gooseberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Gorham Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Goumi",
+    "category": "fruits"
+  },
+  {
+    "name": "Governor’s Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Granadilla",
+    "category": "fruits"
+  },
+  {
+    "name": "Grand Nain Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Granny Smith Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Grapefruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Greek Fig",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Adjou Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Bell Pepper",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Egg Squash",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Fig",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Gage Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Grapes",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Lemon",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Raisins",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Green Tomato",
+    "category": "fruits"
+  },
+  {
+    "name": "Ground Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Grosella Negra",
+    "category": "fruits"
+  },
+  {
+    "name": "Grumichama",
+    "category": "fruits"
+  },
+  {
+    "name": "Guarana.",
+    "category": "fruits"
+  },
+  {
+    "name": "Guava",
+    "category": "fruits"
+  },
+  {
+    "name": "Guavaberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Hackberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Hala Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Hardy Kiwi",
+    "category": "fruits"
+  },
+  {
+    "name": "Hawaiian Mountain Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Hawthorn Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Hazelnuts",
+    "category": "fruits"
+  },
+  {
+    "name": "Heirloom Tomatoes",
+    "category": "fruits"
+  },
+  {
+    "name": "Highbush Blueberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Highbush Cranberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Himalayan Mulberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Hog Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Honeyberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Honey Crisp Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Honeydew Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Honey Locust",
+    "category": "fruits"
+  },
+  {
+    "name": "Honeysuckles",
+    "category": "fruits"
+  },
+  {
+    "name": "Horned Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Huckleberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Huito",
+    "category": "fruits"
+  },
+  {
+    "name": "Husk Tomatoes",
+    "category": "fruits"
+  },
+  {
+    "name": "Hyuganatsu",
+    "category": "fruits"
+  },
+  {
+    "name": "Imbe",
+    "category": "fruits"
+  },
+  {
+    "name": "Icacina",
+    "category": "fruits"
+  },
+  {
+    "name": "Iboga",
+    "category": "fruits"
+  },
+  {
+    "name": "Icaco",
+    "category": "fruits"
+  },
+  {
+    "name": "Indian Jujube Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Indian Prune",
+    "category": "fruits"
+  },
+  {
+    "name": "Indian Sherbet Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Ice Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Indonesian Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Ilama",
+    "category": "fruits"
+  },
+  {
+    "name": "Ita Palm Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Indian Almond Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Imbu",
+    "category": "fruits"
+  },
+  {
+    "name": "Incaberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Ice Cream Bean Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Ichigo",
+    "category": "fruits"
+  },
+  {
+    "name": "Illawarra Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Indian Gooseberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Indian Persimmon",
+    "category": "fruits"
+  },
+  {
+    "name": "Jackfruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Jamun Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Japanese Persimmon",
+    "category": "fruits"
+  },
+  {
+    "name": "Japanese Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Jatoba t",
+    "category": "fruits"
+  },
+  {
+    "name": "Java Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Jazz Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Jelly Palm Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Johannisbeere",
+    "category": "fruits"
+  },
+  {
+    "name": "Jostaberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Juicy Tomatoes",
+    "category": "fruits"
+  },
+  {
+    "name": "Jujube Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Junglesop Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Juniper Berries",
+    "category": "fruits"
+  },
+  {
+    "name": "Kabosu",
+    "category": "fruits"
+  },
+  {
+    "name": "Kaffir Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Kahikatea",
+    "category": "fruits"
+  },
+  {
+    "name": "Kakadu Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Kaki Persimmon",
+    "category": "fruits"
+  },
+  {
+    "name": "Kanzi Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Karonda Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Kasturi Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Kawakawa",
+    "category": "fruits"
+  },
+  {
+    "name": "Kaywa",
+    "category": "fruits"
+  },
+  {
+    "name": "Kei Apple.",
+    "category": "fruits"
+  },
+  {
+    "name": "Keitt Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Key Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Kiwano",
+    "category": "fruits"
+  },
+  {
+    "name": "Kiwi",
+    "category": "fruits"
+  },
+  {
+    "name": "Knobby Russet Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Korean Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Korlan",
+    "category": "fruits"
+  },
+  {
+    "name": "Kowai",
+    "category": "fruits"
+  },
+  {
+    "name": "Kumquats",
+    "category": "fruits"
+  },
+  {
+    "name": "Kutjera Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Kvede",
+    "category": "fruits"
+  },
+  {
+    "name": "Kwai Muk",
+    "category": "fruits"
+  },
+  {
+    "name": "Kyoho Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Lablab Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Lady Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Lady Finger Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Lambkin Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Lancetilla Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Langra Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Langsat",
+    "category": "fruits"
+  },
+  {
+    "name": "Lapsi",
+    "category": "fruits"
+  },
+  {
+    "name": "Le Conte Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Lemato",
+    "category": "fruits"
+  },
+  {
+    "name": "Lemon Aspen",
+    "category": "fruits"
+  },
+  {
+    "name": "Lemon Drop Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Lemon",
+    "category": "fruits"
+  },
+  {
+    "name": "Liberty Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Lilly Pilly",
+    "category": "fruits"
+  },
+  {
+    "name": "Lima Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Limau Bali",
+    "category": "fruits"
+  },
+  {
+    "name": "Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Limeberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Limquat",
+    "category": "fruits"
+  },
+  {
+    "name": "Lingonberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Lippens Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Lodi Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Loganberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Long Neck Avocado",
+    "category": "fruits"
+  },
+  {
+    "name": "Lord Lambourne Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Loquat",
+    "category": "fruits"
+  },
+  {
+    "name": "Louise Bonne of Jersey Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Lucuma",
+    "category": "fruits"
+  },
+  {
+    "name": "Macadamia Nut",
+    "category": "fruits"
+  },
+  {
+    "name": "Macoun Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Madison Peach",
+    "category": "fruits"
+  },
+  {
+    "name": "Madrono",
+    "category": "fruits"
+  },
+  {
+    "name": "Madrono",
+    "category": "fruits"
+  },
+  {
+    "name": "Mamey Sapote",
+    "category": "fruits"
+  },
+  {
+    "name": "Mammee Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Mamoncillo",
+    "category": "fruits"
+  },
+  {
+    "name": "Mandarin",
+    "category": "fruits"
+  },
+  {
+    "name": "Mangaba",
+    "category": "fruits"
+  },
+  {
+    "name": "Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Mangosteen",
+    "category": "fruits"
+  },
+  {
+    "name": "Maqui",
+    "category": "fruits"
+  },
+  {
+    "name": "Maracuya",
+    "category": "fruits"
+  },
+  {
+    "name": "Marang",
+    "category": "fruits"
+  },
+  {
+    "name": "Margil Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Marionberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Marisol Clementine",
+    "category": "fruits"
+  },
+  {
+    "name": "Marsh Pink Grapefruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Marula",
+    "category": "fruits"
+  },
+  {
+    "name": "May Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "May Pride Peaches",
+    "category": "fruits"
+  },
+  {
+    "name": "Mayan Nut",
+    "category": "fruits"
+  },
+  {
+    "name": "Maypop",
+    "category": "fruits"
+  },
+  {
+    "name": "McIntosh Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Melon Pear Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Merlot Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Meyer Lemon",
+    "category": "fruits"
+  },
+  {
+    "name": "Mexican Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Mexican Limes",
+    "category": "fruits"
+  },
+  {
+    "name": "Midyim Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Minneolo Tangelo",
+    "category": "fruits"
+  },
+  {
+    "name": "Miracle Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Mock Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Monster Deliciosa",
+    "category": "fruits"
+  },
+  {
+    "name": "Naartjie",
+    "category": "fruits"
+  },
+  {
+    "name": "Nagami Kumquat",
+    "category": "fruits"
+  },
+  {
+    "name": "Nageia",
+    "category": "fruits"
+  },
+  {
+    "name": "Nam Dok Mai",
+    "category": "fruits"
+  },
+  {
+    "name": "Nance",
+    "category": "fruits"
+  },
+  {
+    "name": "Naranjilla",
+    "category": "fruits"
+  },
+  {
+    "name": "Narenj",
+    "category": "fruits"
+  },
+  {
+    "name": "Natal Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Nashi Pears",
+    "category": "fruits"
+  },
+  {
+    "name": "Naval Oranges",
+    "category": "fruits"
+  },
+  {
+    "name": "Nectacot",
+    "category": "fruits"
+  },
+  {
+    "name": "Nectacotum",
+    "category": "fruits"
+  },
+  {
+    "name": "Nectarines",
+    "category": "fruits"
+  },
+  {
+    "name": "Neem",
+    "category": "fruits"
+  },
+  {
+    "name": "Nepali Hog Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Nere Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Newton Pippin Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Nocera Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Nopal Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Northern Spy Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Nungu Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Nutmeg",
+    "category": "fruits"
+  },
+  {
+    "name": "Nuts",
+    "category": "fruits"
+  },
+  {
+    "name": "O’Henry Peach",
+    "category": "fruits"
+  },
+  {
+    "name": "Oeillade Noire Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Ogallala Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Ogeechee Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Oil Palm",
+    "category": "fruits"
+  },
+  {
+    "name": "Okra",
+    "category": "fruits"
+  },
+  {
+    "name": "Okuzgozu Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Olallieberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Olive",
+    "category": "fruits"
+  },
+  {
+    "name": "Opal Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Opal Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Opuntia",
+    "category": "fruits"
+  },
+  {
+    "name": "Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Orangelo",
+    "category": "fruits"
+  },
+  {
+    "name": "Oregon Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Orient Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Orient Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Oriental Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Orin Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Orlando Tangelo",
+    "category": "fruits"
+  },
+  {
+    "name": "Oroblanco",
+    "category": "fruits"
+  },
+  {
+    "name": "Ortanique",
+    "category": "fruits"
+  },
+  {
+    "name": "OSO Grande Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Osteen Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Otaheite Gooseberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Oullins Gage Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Oval Kumquat",
+    "category": "fruits"
+  },
+  {
+    "name": "Ozark Beauty Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Ozark Gold Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Pacific Rose Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Palestinian Sweet Limes",
+    "category": "fruits"
+  },
+  {
+    "name": "Papaya",
+    "category": "fruits"
+  },
+  {
+    "name": "Parsonage Pears",
+    "category": "fruits"
+  },
+  {
+    "name": "Passion Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Paw Paw",
+    "category": "fruits"
+  },
+  {
+    "name": "Peaches",
+    "category": "fruits"
+  },
+  {
+    "name": "Peach Palm Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Pears",
+    "category": "fruits"
+  },
+  {
+    "name": "Pecan",
+    "category": "fruits"
+  },
+  {
+    "name": "Pequi Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Persian Limes",
+    "category": "fruits"
+  },
+  {
+    "name": "Persimmons",
+    "category": "fruits"
+  },
+  {
+    "name": "Petit Rouge Grapes",
+    "category": "fruits"
+  },
+  {
+    "name": "Peumo Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Pie Pumpkins",
+    "category": "fruits"
+  },
+  {
+    "name": "Pigeon Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Pigface Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Pili Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Pineapple",
+    "category": "fruits"
+  },
+  {
+    "name": "Pineberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Pink Lady Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Pink Pearl Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Pink Pineapple",
+    "category": "fruits"
+  },
+  {
+    "name": "Pink Pomelo",
+    "category": "fruits"
+  },
+  {
+    "name": "Pinot Noir Grapes",
+    "category": "fruits"
+  },
+  {
+    "name": "Pinova Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Pitaya",
+    "category": "fruits"
+  },
+  {
+    "name": "Plantains",
+    "category": "fruits"
+  },
+  {
+    "name": "Plums",
+    "category": "fruits"
+  },
+  {
+    "name": "Plumcots",
+    "category": "fruits"
+  },
+  {
+    "name": "Pluots",
+    "category": "fruits"
+  },
+  {
+    "name": "Pomato",
+    "category": "fruits"
+  },
+  {
+    "name": "Pomegranate",
+    "category": "fruits"
+  },
+  {
+    "name": "Pomelo",
+    "category": "fruits"
+  },
+  {
+    "name": "Ponderosa Lemons",
+    "category": "fruits"
+  },
+  {
+    "name": "Prickly Pears",
+    "category": "fruits"
+  },
+  {
+    "name": "Prunes",
+    "category": "fruits"
+  },
+  {
+    "name": "Pumpkins",
+    "category": "fruits"
+  },
+  {
+    "name": "Quince",
+    "category": "fruits"
+  },
+  {
+    "name": "Quandong",
+    "category": "fruits"
+  },
+  {
+    "name": "Quararibea",
+    "category": "fruits"
+  },
+  {
+    "name": "Querina Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Quinault Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Queen Anne Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Queen Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Queen’s Forelle Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Queen Tahiti Pineapple",
+    "category": "fruits"
+  },
+  {
+    "name": "Raisins",
+    "category": "fruits"
+  },
+  {
+    "name": "Rajka Apples",
+    "category": "fruits"
+  },
+  {
+    "name": "Rambai",
+    "category": "fruits"
+  },
+  {
+    "name": "Rambutan",
+    "category": "fruits"
+  },
+  {
+    "name": "Ramontchi",
+    "category": "fruits"
+  },
+  {
+    "name": "Rangpur Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Raspberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Raspuri Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Rata",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Bayberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Delicious Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Huckleberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Mombin",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Mulberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Passion Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Red Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Redcurrant",
+    "category": "fruits"
+  },
+  {
+    "name": "Rhobs El Arsa",
+    "category": "fruits"
+  },
+  {
+    "name": "Riberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Rocha pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Rockmelon",
+    "category": "fruits"
+  },
+  {
+    "name": "Rollinia",
+    "category": "fruits"
+  },
+  {
+    "name": "Rose Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Rose Hip",
+    "category": "fruits"
+  },
+  {
+    "name": "Roselle",
+    "category": "fruits"
+  },
+  {
+    "name": "Rosigold Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Rough Lemon",
+    "category": "fruits"
+  },
+  {
+    "name": "Rumbus Parviflorus",
+    "category": "fruits"
+  },
+  {
+    "name": "Rumdul",
+    "category": "fruits"
+  },
+  {
+    "name": "Sand Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Saigon Mango.",
+    "category": "fruits"
+  },
+  {
+    "name": "Salak",
+    "category": "fruits"
+  },
+  {
+    "name": "Santol",
+    "category": "fruits"
+  },
+  {
+    "name": "Satsuma Mandarin",
+    "category": "fruits"
+  },
+  {
+    "name": "Serviceberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Shonan Gold",
+    "category": "fruits"
+  },
+  {
+    "name": "Sloe",
+    "category": "fruits"
+  },
+  {
+    "name": "Soncoya",
+    "category": "fruits"
+  },
+  {
+    "name": "Sour Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Sour Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Soursop",
+    "category": "fruits"
+  },
+  {
+    "name": "Splendor Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Star Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Star Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Strawberry Guava",
+    "category": "fruits"
+  },
+  {
+    "name": "Sudachi",
+    "category": "fruits"
+  },
+  {
+    "name": "Sugar Baby Watermelon",
+    "category": "fruits"
+  },
+  {
+    "name": "Sugar Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Sugar Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Sunset Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Sweet Granadilla",
+    "category": "fruits"
+  },
+  {
+    "name": "Sweet Lime",
+    "category": "fruits"
+  },
+  {
+    "name": "Tachibana Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Tamarillo",
+    "category": "fruits"
+  },
+  {
+    "name": "Tangelo",
+    "category": "fruits"
+  },
+  {
+    "name": "Tangerine",
+    "category": "fruits"
+  },
+  {
+    "name": "Tart Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Tayberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Taylor’s Gold Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Terap",
+    "category": "fruits"
+  },
+  {
+    "name": "Texas Persimmon",
+    "category": "fruits"
+  },
+  {
+    "name": "Thimberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Tomatillo",
+    "category": "fruits"
+  },
+  {
+    "name": "Tompkins King Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Tommy Atkins Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Topaz Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Tourist Pineapple",
+    "category": "fruits"
+  },
+  {
+    "name": "Trifoliate Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Tropical Apricot",
+    "category": "fruits"
+  },
+  {
+    "name": "Ububese",
+    "category": "fruits"
+  },
+  {
+    "name": "Ugli Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Ugni Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Umbu Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Umbra Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Urava Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Usuma Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Umeboshi",
+    "category": "fruits"
+  },
+  {
+    "name": "Uvilla Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Wahoo",
+    "category": "fruits"
+  },
+  {
+    "name": "Walnut",
+    "category": "fruits"
+  },
+  {
+    "name": "Wampee",
+    "category": "fruits"
+  },
+  {
+    "name": "Water Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Water Chestnut",
+    "category": "fruits"
+  },
+  {
+    "name": "Watermelon",
+    "category": "fruits"
+  },
+  {
+    "name": "Wax Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Wax Gourd",
+    "category": "fruits"
+  },
+  {
+    "name": "Wealthy Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "West Indian Cherry",
+    "category": "fruits"
+  },
+  {
+    "name": "Western Hackberry",
+    "category": "fruits"
+  },
+  {
+    "name": "White Aspen",
+    "category": "fruits"
+  },
+  {
+    "name": "White Currant",
+    "category": "fruits"
+  },
+  {
+    "name": "White-Flowered Gourd",
+    "category": "fruits"
+  },
+  {
+    "name": "White Mulberries",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Bacher Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Banana",
+    "category": "fruits"
+  },
+  {
+    "name": "Custard Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Lemon",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Lowbush Blueberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Mangosteen",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Orange",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Peach",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Sugar Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Wild Water Lemon",
+    "category": "fruits"
+  },
+  {
+    "name": "Williams Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Winter Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Winter Squash",
+    "category": "fruits"
+  },
+  {
+    "name": "Wolf Berry",
+    "category": "fruits"
+  },
+  {
+    "name": "Xanthium Strumarium",
+    "category": "fruits"
+  },
+  {
+    "name": "Xarel-lo",
+    "category": "fruits"
+  },
+  {
+    "name": "Xerophyte",
+    "category": "fruits"
+  },
+  {
+    "name": "Xigua fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Ximenia Americana",
+    "category": "fruits"
+  },
+  {
+    "name": "Ximenia Caffra",
+    "category": "fruits"
+  },
+  {
+    "name": "Xinomavro",
+    "category": "fruits"
+  },
+  {
+    "name": "Xoconostle Cactus Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Xylocarp",
+    "category": "fruits"
+  },
+  {
+    "name": "Ya Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Yali Pear",
+    "category": "fruits"
+  },
+  {
+    "name": "Yangmei",
+    "category": "fruits"
+  },
+  {
+    "name": "Yayat",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Bell Peppers",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Chili Pepper",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Dragon Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Yayat Palm",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Guava",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Passion Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Plum",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Sapote",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Strawberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Yellow Watermelon",
+    "category": "fruits"
+  },
+  {
+    "name": "Yemenite Citron",
+    "category": "fruits"
+  },
+  {
+    "name": "York Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Young Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Youngberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Yucca",
+    "category": "fruits"
+  },
+  {
+    "name": "Yumberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Yunnan Hackberry",
+    "category": "fruits"
+  },
+  {
+    "name": "Yuzu",
+    "category": "fruits"
+  },
+  {
+    "name": "Zabergau Reinette Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Zalzalak",
+    "category": "fruits"
+  },
+  {
+    "name": "Zante Currant",
+    "category": "fruits"
+  },
+  {
+    "name": "Zarzamora",
+    "category": "fruits"
+  },
+  {
+    "name": "Zawngtah",
+    "category": "fruits"
+  },
+  {
+    "name": "Zebra Melon",
+    "category": "fruits"
+  },
+  {
+    "name": "Zestar Apple",
+    "category": "fruits"
+  },
+  {
+    "name": "Zhe",
+    "category": "fruits"
+  },
+  {
+    "name": "Zierfandler Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Zig Zag Vine Fruit",
+    "category": "fruits"
+  },
+  {
+    "name": "Zill Mango",
+    "category": "fruits"
+  },
+  {
+    "name": "Zinfandel Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Ziziphus Mauritiana",
+    "category": "fruits"
+  },
+  {
+    "name": "Zucchini",
+    "category": "fruits"
+  },
+  {
+    "name": "Zweigelt Grape",
+    "category": "fruits"
+  },
+  {
+    "name": "Zwetschge",
+    "category": "fruits"
+  }
+]

@@ -1,0 +1,1886 @@
+[
+  {
+    "name": "Accept",
+    "category": "verb"
+  },
+  {
+    "name": "Accuse",
+    "category": "verb"
+  },
+  {
+    "name": "Achieve",
+    "category": "verb"
+  },
+  {
+    "name": "Acknowledge",
+    "category": "verb"
+  },
+  {
+    "name": "Acquire",
+    "category": "verb"
+  },
+  {
+    "name": "Adapt",
+    "category": "verb"
+  },
+  {
+    "name": "Add",
+    "category": "verb"
+  },
+  {
+    "name": "Adjust",
+    "category": "verb"
+  },
+  {
+    "name": "Admire",
+    "category": "verb"
+  },
+  {
+    "name": "Admit",
+    "category": "verb"
+  },
+  {
+    "name": "Adopt",
+    "category": "verb"
+  },
+  {
+    "name": "Adore",
+    "category": "verb"
+  },
+  {
+    "name": "Advise",
+    "category": "verb"
+  },
+  {
+    "name": "Afford",
+    "category": "verb"
+  },
+  {
+    "name": "Agree",
+    "category": "verb"
+  },
+  {
+    "name": "Aim",
+    "category": "verb"
+  },
+  {
+    "name": "Allow",
+    "category": "verb"
+  },
+  {
+    "name": "Announce",
+    "category": "verb"
+  },
+  {
+    "name": "Anticipate",
+    "category": "verb"
+  },
+  {
+    "name": "Apologize",
+    "category": "verb"
+  },
+  {
+    "name": "Appear",
+    "category": "verb"
+  },
+  {
+    "name": "Apply",
+    "category": "verb"
+  },
+  {
+    "name": "Appreciate",
+    "category": "verb"
+  },
+  {
+    "name": "Approach",
+    "category": "verb"
+  },
+  {
+    "name": "Approve",
+    "category": "verb"
+  },
+  {
+    "name": "Argue",
+    "category": "verb"
+  },
+  {
+    "name": "Arise",
+    "category": "verb"
+  },
+  {
+    "name": "Arrange",
+    "category": "verb"
+  },
+  {
+    "name": "Arrive",
+    "category": "verb"
+  },
+  {
+    "name": "Ask",
+    "category": "verb"
+  },
+  {
+    "name": "Assume",
+    "category": "verb"
+  },
+  {
+    "name": "Assure",
+    "category": "verb"
+  },
+  {
+    "name": "Astonish",
+    "category": "verb"
+  },
+  {
+    "name": "Attach",
+    "category": "verb"
+  },
+  {
+    "name": "Attempt",
+    "category": "verb"
+  },
+  {
+    "name": "Attend",
+    "category": "verb"
+  },
+  {
+    "name": "Attract",
+    "category": "verb"
+  },
+  {
+    "name": "Avoid",
+    "category": "verb"
+  },
+  {
+    "name": "Awake",
+    "category": "verb"
+  },
+  {
+    "name": "Bake",
+    "category": "verb"
+  },
+  {
+    "name": "Bathe",
+    "category": "verb"
+  },
+  {
+    "name": "Be",
+    "category": "verb"
+  },
+  {
+    "name": "Bear",
+    "category": "verb"
+  },
+  {
+    "name": "Beat",
+    "category": "verb"
+  },
+  {
+    "name": "Become",
+    "category": "verb"
+  },
+  {
+    "name": "Beg",
+    "category": "verb"
+  },
+  {
+    "name": "Begin",
+    "category": "verb"
+  },
+  {
+    "name": "Behave",
+    "category": "verb"
+  },
+  {
+    "name": "Believe",
+    "category": "verb"
+  },
+  {
+    "name": "Belong",
+    "category": "verb"
+  },
+  {
+    "name": "Bend",
+    "category": "verb"
+  },
+  {
+    "name": "Bet",
+    "category": "verb"
+  },
+  {
+    "name": "Bind",
+    "category": "verb"
+  },
+  {
+    "name": "Bite",
+    "category": "verb"
+  },
+  {
+    "name": "Blow",
+    "category": "verb"
+  },
+  {
+    "name": "Boil",
+    "category": "verb"
+  },
+  {
+    "name": "Borrow",
+    "category": "verb"
+  },
+  {
+    "name": "Bounce",
+    "category": "verb"
+  },
+  {
+    "name": "Bow",
+    "category": "verb"
+  },
+  {
+    "name": "Break",
+    "category": "verb"
+  },
+  {
+    "name": "Breed",
+    "category": "verb"
+  },
+  {
+    "name": "Bring",
+    "category": "verb"
+  },
+  {
+    "name": "Broadcast",
+    "category": "verb"
+  },
+  {
+    "name": "Build",
+    "category": "verb"
+  },
+  {
+    "name": "Burn",
+    "category": "verb"
+  },
+  {
+    "name": "Burst",
+    "category": "verb"
+  },
+  {
+    "name": "Buy",
+    "category": "verb"
+  },
+  {
+    "name": "Calculate",
+    "category": "verb"
+  },
+  {
+    "name": "Can/Could",
+    "category": "verb"
+  },
+  {
+    "name": "Care",
+    "category": "verb"
+  },
+  {
+    "name": "Carry",
+    "category": "verb"
+  },
+  {
+    "name": "Catch",
+    "category": "verb"
+  },
+  {
+    "name": "Celebrate",
+    "category": "verb"
+  },
+  {
+    "name": "Change",
+    "category": "verb"
+  },
+  {
+    "name": "Choose",
+    "category": "verb"
+  },
+  {
+    "name": "Chop",
+    "category": "verb"
+  },
+  {
+    "name": "Claim",
+    "category": "verb"
+  },
+  {
+    "name": "Climb",
+    "category": "verb"
+  },
+  {
+    "name": "Cling",
+    "category": "verb"
+  },
+  {
+    "name": "Come",
+    "category": "verb"
+  },
+  {
+    "name": "Commit",
+    "category": "verb"
+  },
+  {
+    "name": "Communicate",
+    "category": "verb"
+  },
+  {
+    "name": "Compare",
+    "category": "verb"
+  },
+  {
+    "name": "Compete",
+    "category": "verb"
+  },
+  {
+    "name": "Complain",
+    "category": "verb"
+  },
+  {
+    "name": "Complete",
+    "category": "verb"
+  },
+  {
+    "name": "Concern",
+    "category": "verb"
+  },
+  {
+    "name": "Confirm",
+    "category": "verb"
+  },
+  {
+    "name": "Consent",
+    "category": "verb"
+  },
+  {
+    "name": "Consider",
+    "category": "verb"
+  },
+  {
+    "name": "Consist",
+    "category": "verb"
+  },
+  {
+    "name": "Consult",
+    "category": "verb"
+  },
+  {
+    "name": "Contain",
+    "category": "verb"
+  },
+  {
+    "name": "Continue",
+    "category": "verb"
+  },
+  {
+    "name": "Convince",
+    "category": "verb"
+  },
+  {
+    "name": "Cook",
+    "category": "verb"
+  },
+  {
+    "name": "Cost",
+    "category": "verb"
+  },
+  {
+    "name": "Count",
+    "category": "verb"
+  },
+  {
+    "name": "Crawl",
+    "category": "verb"
+  },
+  {
+    "name": "Create",
+    "category": "verb"
+  },
+  {
+    "name": "Creep",
+    "category": "verb"
+  },
+  {
+    "name": "Criticize",
+    "category": "verb"
+  },
+  {
+    "name": "Cry",
+    "category": "verb"
+  },
+  {
+    "name": "Cut",
+    "category": "verb"
+  },
+  {
+    "name": "Dance",
+    "category": "verb"
+  },
+  {
+    "name": "Dare",
+    "category": "verb"
+  },
+  {
+    "name": "Deal",
+    "category": "verb"
+  },
+  {
+    "name": "Decide",
+    "category": "verb"
+  },
+  {
+    "name": "Defer",
+    "category": "verb"
+  },
+  {
+    "name": "Delay",
+    "category": "verb"
+  },
+  {
+    "name": "Deliver",
+    "category": "verb"
+  },
+  {
+    "name": "Demand",
+    "category": "verb"
+  },
+  {
+    "name": "Deny",
+    "category": "verb"
+  },
+  {
+    "name": "Depend",
+    "category": "verb"
+  },
+  {
+    "name": "Describe",
+    "category": "verb"
+  },
+  {
+    "name": "Deserve",
+    "category": "verb"
+  },
+  {
+    "name": "Desire",
+    "category": "verb"
+  },
+  {
+    "name": "Destroy",
+    "category": "verb"
+  },
+  {
+    "name": "Determine",
+    "category": "verb"
+  },
+  {
+    "name": "Develop",
+    "category": "verb"
+  },
+  {
+    "name": "Differ",
+    "category": "verb"
+  },
+  {
+    "name": "Disagree",
+    "category": "verb"
+  },
+  {
+    "name": "Discover",
+    "category": "verb"
+  },
+  {
+    "name": "Discuss",
+    "category": "verb"
+  },
+  {
+    "name": "Dislike",
+    "category": "verb"
+  },
+  {
+    "name": "Distribute",
+    "category": "verb"
+  },
+  {
+    "name": "Dive",
+    "category": "verb"
+  },
+  {
+    "name": "Do",
+    "category": "verb"
+  },
+  {
+    "name": "Doubt",
+    "category": "verb"
+  },
+  {
+    "name": "Drag",
+    "category": "verb"
+  },
+  {
+    "name": "Dream",
+    "category": "verb"
+  },
+  {
+    "name": "Drill",
+    "category": "verb"
+  },
+  {
+    "name": "Drink",
+    "category": "verb"
+  },
+  {
+    "name": "Drive",
+    "category": "verb"
+  },
+  {
+    "name": "Drop",
+    "category": "verb"
+  },
+  {
+    "name": "Dry",
+    "category": "verb"
+  },
+  {
+    "name": "Earn",
+    "category": "verb"
+  },
+  {
+    "name": "Eat",
+    "category": "verb"
+  },
+  {
+    "name": "Emphasize",
+    "category": "verb"
+  },
+  {
+    "name": "Enable",
+    "category": "verb"
+  },
+  {
+    "name": "Encourage",
+    "category": "verb"
+  },
+  {
+    "name": "Engage",
+    "category": "verb"
+  },
+  {
+    "name": "Enhance",
+    "category": "verb"
+  },
+  {
+    "name": "Enjoy",
+    "category": "verb"
+  },
+  {
+    "name": "Ensure",
+    "category": "verb"
+  },
+  {
+    "name": "Entail",
+    "category": "verb"
+  },
+  {
+    "name": "Enter",
+    "category": "verb"
+  },
+  {
+    "name": "Establish",
+    "category": "verb"
+  },
+  {
+    "name": "Examine",
+    "category": "verb"
+  },
+  {
+    "name": "Exist",
+    "category": "verb"
+  },
+  {
+    "name": "Expand",
+    "category": "verb"
+  },
+  {
+    "name": "Expect",
+    "category": "verb"
+  },
+  {
+    "name": "Experiment",
+    "category": "verb"
+  },
+  {
+    "name": "Explain",
+    "category": "verb"
+  },
+  {
+    "name": "Explore",
+    "category": "verb"
+  },
+  {
+    "name": "Extend",
+    "category": "verb"
+  },
+  {
+    "name": "Fail",
+    "category": "verb"
+  },
+  {
+    "name": "Fall",
+    "category": "verb"
+  },
+  {
+    "name": "Feed",
+    "category": "verb"
+  },
+  {
+    "name": "Feel",
+    "category": "verb"
+  },
+  {
+    "name": "Fight",
+    "category": "verb"
+  },
+  {
+    "name": "Find",
+    "category": "verb"
+  },
+  {
+    "name": "Finish",
+    "category": "verb"
+  },
+  {
+    "name": "Fit",
+    "category": "verb"
+  },
+  {
+    "name": "Fly",
+    "category": "verb"
+  },
+  {
+    "name": "Fold",
+    "category": "verb"
+  },
+  {
+    "name": "Follow",
+    "category": "verb"
+  },
+  {
+    "name": "Forbid",
+    "category": "verb"
+  },
+  {
+    "name": "Forget",
+    "category": "verb"
+  },
+  {
+    "name": "Forgive",
+    "category": "verb"
+  },
+  {
+    "name": "Freeze",
+    "category": "verb"
+  },
+  {
+    "name": "Fry",
+    "category": "verb"
+  },
+  {
+    "name": "Gather",
+    "category": "verb"
+  },
+  {
+    "name": "Grow",
+    "category": "verb"
+  },
+  {
+    "name": "Grasp",
+    "category": "verb"
+  },
+  {
+    "name": "Glance",
+    "category": "verb"
+  },
+  {
+    "name": "Greet",
+    "category": "verb"
+  },
+  {
+    "name": "Guide",
+    "category": "verb"
+  },
+  {
+    "name": "Guess",
+    "category": "verb"
+  },
+  {
+    "name": "Give",
+    "category": "verb"
+  },
+  {
+    "name": "Go",
+    "category": "verb"
+  },
+  {
+    "name": "Generate",
+    "category": "verb"
+  },
+  {
+    "name": "Grab",
+    "category": "verb"
+  },
+  {
+    "name": "Glitter",
+    "category": "verb"
+  },
+  {
+    "name": "Groan",
+    "category": "verb"
+  },
+  {
+    "name": "Hang",
+    "category": "verb"
+  },
+  {
+    "name": "Happen",
+    "category": "verb"
+  },
+  {
+    "name": "Hate",
+    "category": "verb"
+  },
+  {
+    "name": "Have",
+    "category": "verb"
+  },
+  {
+    "name": "Hear",
+    "category": "verb"
+  },
+  {
+    "name": "Hesitate",
+    "category": "verb"
+  },
+  {
+    "name": "Hide",
+    "category": "verb"
+  },
+  {
+    "name": "Hit",
+    "category": "verb"
+  },
+  {
+    "name": "Hold",
+    "category": "verb"
+  },
+  {
+    "name": "Hop",
+    "category": "verb"
+  },
+  {
+    "name": "Hope",
+    "category": "verb"
+  },
+  {
+    "name": "Hug",
+    "category": "verb"
+  },
+  {
+    "name": "Hurry",
+    "category": "verb"
+  },
+  {
+    "name": "Hurt",
+    "category": "verb"
+  },
+  {
+    "name": "Identify",
+    "category": "verb"
+  },
+  {
+    "name": "Ignore",
+    "category": "verb"
+  },
+  {
+    "name": "Illustrate",
+    "category": "verb"
+  },
+  {
+    "name": "Imagine",
+    "category": "verb"
+  },
+  {
+    "name": "Imply",
+    "category": "verb"
+  },
+  {
+    "name": "Impress",
+    "category": "verb"
+  },
+  {
+    "name": "Improve",
+    "category": "verb"
+  },
+  {
+    "name": "Include",
+    "category": "verb"
+  },
+  {
+    "name": "Incorporate",
+    "category": "verb"
+  },
+  {
+    "name": "Indicate",
+    "category": "verb"
+  },
+  {
+    "name": "Inform",
+    "category": "verb"
+  },
+  {
+    "name": "Insist",
+    "category": "verb"
+  },
+  {
+    "name": "Install",
+    "category": "verb"
+  },
+  {
+    "name": "Intend",
+    "category": "verb"
+  },
+  {
+    "name": "Introduce",
+    "category": "verb"
+  },
+  {
+    "name": "Invest",
+    "category": "verb"
+  },
+  {
+    "name": "Investigate",
+    "category": "verb"
+  },
+  {
+    "name": "Involve",
+    "category": "verb"
+  },
+  {
+    "name": "Iron",
+    "category": "verb"
+  },
+  {
+    "name": "Jog",
+    "category": "verb"
+  },
+  {
+    "name": "Juggle",
+    "category": "verb"
+  },
+  {
+    "name": "Join",
+    "category": "verb"
+  },
+  {
+    "name": "Jump",
+    "category": "verb"
+  },
+  {
+    "name": "Judge",
+    "category": "verb"
+  },
+  {
+    "name": "Justify",
+    "category": "verb"
+  },
+  {
+    "name": "Keep",
+    "category": "verb"
+  },
+  {
+    "name": "Kick",
+    "category": "verb"
+  },
+  {
+    "name": "Kiss",
+    "category": "verb"
+  },
+  {
+    "name": "Kneel",
+    "category": "verb"
+  },
+  {
+    "name": "Knit",
+    "category": "verb"
+  },
+  {
+    "name": "Know",
+    "category": "verb"
+  },
+  {
+    "name": "Lack",
+    "category": "verb"
+  },
+  {
+    "name": "Laugh",
+    "category": "verb"
+  },
+  {
+    "name": "Lay",
+    "category": "verb"
+  },
+  {
+    "name": "Lead",
+    "category": "verb"
+  },
+  {
+    "name": "Lean",
+    "category": "verb"
+  },
+  {
+    "name": "Leap",
+    "category": "verb"
+  },
+  {
+    "name": "Learn",
+    "category": "verb"
+  },
+  {
+    "name": "Leave",
+    "category": "verb"
+  },
+  {
+    "name": "Lend",
+    "category": "verb"
+  },
+  {
+    "name": "Lie (in bed)",
+    "category": "verb"
+  },
+  {
+    "name": "Lift",
+    "category": "verb"
+  },
+  {
+    "name": "Light",
+    "category": "verb"
+  },
+  {
+    "name": "Lie (not to tell the truth)",
+    "category": "verb"
+  },
+  {
+    "name": "Like",
+    "category": "verb"
+  },
+  {
+    "name": "Listen",
+    "category": "verb"
+  },
+  {
+    "name": "Look",
+    "category": "verb"
+  },
+  {
+    "name": "Lose",
+    "category": "verb"
+  },
+  {
+    "name": "Love",
+    "category": "verb"
+  },
+  {
+    "name": "Maintain",
+    "category": "verb"
+  },
+  {
+    "name": "Make",
+    "category": "verb"
+  },
+  {
+    "name": "Manage",
+    "category": "verb"
+  },
+  {
+    "name": "Matter",
+    "category": "verb"
+  },
+  {
+    "name": "May",
+    "category": "verb"
+  },
+  {
+    "name": "Mean",
+    "category": "verb"
+  },
+  {
+    "name": "Measure",
+    "category": "verb"
+  },
+  {
+    "name": "Meet",
+    "category": "verb"
+  },
+  {
+    "name": "Melt",
+    "category": "verb"
+  },
+  {
+    "name": "Mention",
+    "category": "verb"
+  },
+  {
+    "name": "Might",
+    "category": "verb"
+  },
+  {
+    "name": "Mind",
+    "category": "verb"
+  },
+  {
+    "name": "Miss",
+    "category": "verb"
+  },
+  {
+    "name": "Mix",
+    "category": "verb"
+  },
+  {
+    "name": "Mow",
+    "category": "verb"
+  },
+  {
+    "name": "Must",
+    "category": "verb"
+  },
+  {
+    "name": "Nag",
+    "category": "verb"
+  },
+  {
+    "name": "Nourish",
+    "category": "verb"
+  },
+  {
+    "name": "Nudge",
+    "category": "verb"
+  },
+  {
+    "name": "Navigate",
+    "category": "verb"
+  },
+  {
+    "name": "Name",
+    "category": "verb"
+  },
+  {
+    "name": "Neglect",
+    "category": "verb"
+  },
+  {
+    "name": "Nurture",
+    "category": "verb"
+  },
+  {
+    "name": "Notify",
+    "category": "verb"
+  },
+  {
+    "name": "Narrate",
+    "category": "verb"
+  },
+  {
+    "name": "Necessitate",
+    "category": "verb"
+  },
+  {
+    "name": "Observe",
+    "category": "verb"
+  },
+  {
+    "name": "Obtain",
+    "category": "verb"
+  },
+  {
+    "name": "Occur",
+    "category": "verb"
+  },
+  {
+    "name": "Offer",
+    "category": "verb"
+  },
+  {
+    "name": "Open",
+    "category": "verb"
+  },
+  {
+    "name": "Operate",
+    "category": "verb"
+  },
+  {
+    "name": "Order",
+    "category": "verb"
+  },
+  {
+    "name": "Organize",
+    "category": "verb"
+  },
+  {
+    "name": "Ought to",
+    "category": "verb"
+  },
+  {
+    "name": "Overcome",
+    "category": "verb"
+  },
+  {
+    "name": "Overtake",
+    "category": "verb"
+  },
+  {
+    "name": "Owe",
+    "category": "verb"
+  },
+  {
+    "name": "Own",
+    "category": "verb"
+  },
+  {
+    "name": "Paint",
+    "category": "verb"
+  },
+  {
+    "name": "Participate",
+    "category": "verb"
+  },
+  {
+    "name": "Pay",
+    "category": "verb"
+  },
+  {
+    "name": "Peel",
+    "category": "verb"
+  },
+  {
+    "name": "Perform",
+    "category": "verb"
+  },
+  {
+    "name": "Persuade",
+    "category": "verb"
+  },
+  {
+    "name": "Pinch",
+    "category": "verb"
+  },
+  {
+    "name": "Plan",
+    "category": "verb"
+  },
+  {
+    "name": "Play",
+    "category": "verb"
+  },
+  {
+    "name": "Point",
+    "category": "verb"
+  },
+  {
+    "name": "Possess",
+    "category": "verb"
+  },
+  {
+    "name": "Postpone",
+    "category": "verb"
+  },
+  {
+    "name": "Pour",
+    "category": "verb"
+  },
+  {
+    "name": "Practice",
+    "category": "verb"
+  },
+  {
+    "name": "Prefer",
+    "category": "verb"
+  },
+  {
+    "name": "Prepare",
+    "category": "verb"
+  },
+  {
+    "name": "Pretend",
+    "category": "verb"
+  },
+  {
+    "name": "Prevent",
+    "category": "verb"
+  },
+  {
+    "name": "Proceed",
+    "category": "verb"
+  },
+  {
+    "name": "Promise",
+    "category": "verb"
+  },
+  {
+    "name": "Propose",
+    "category": "verb"
+  },
+  {
+    "name": "Protect",
+    "category": "verb"
+  },
+  {
+    "name": "Prove",
+    "category": "verb"
+  },
+  {
+    "name": "Pull",
+    "category": "verb"
+  },
+  {
+    "name": "Punch",
+    "category": "verb"
+  },
+  {
+    "name": "Pursue",
+    "category": "verb"
+  },
+  {
+    "name": "Push",
+    "category": "verb"
+  },
+  {
+    "name": "Put",
+    "category": "verb"
+  },
+  {
+    "name": "Quack",
+    "category": "verb"
+  },
+  {
+    "name": "Quit",
+    "category": "verb"
+  },
+  {
+    "name": "Quell",
+    "category": "verb"
+  },
+  {
+    "name": "Quest",
+    "category": "verb"
+  },
+  {
+    "name": "Quake",
+    "category": "verb"
+  },
+  {
+    "name": "Qualify",
+    "category": "verb"
+  },
+  {
+    "name": "React",
+    "category": "verb"
+  },
+  {
+    "name": "Read",
+    "category": "verb"
+  },
+  {
+    "name": "Realize",
+    "category": "verb"
+  },
+  {
+    "name": "Recall",
+    "category": "verb"
+  },
+  {
+    "name": "Receive",
+    "category": "verb"
+  },
+  {
+    "name": "Recollect",
+    "category": "verb"
+  },
+  {
+    "name": "Recommend",
+    "category": "verb"
+  },
+  {
+    "name": "Reduce",
+    "category": "verb"
+  },
+  {
+    "name": "Refer",
+    "category": "verb"
+  },
+  {
+    "name": "Reflect",
+    "category": "verb"
+  },
+  {
+    "name": "Refuse",
+    "category": "verb"
+  },
+  {
+    "name": "Regret",
+    "category": "verb"
+  },
+  {
+    "name": "Relate",
+    "category": "verb"
+  },
+  {
+    "name": "Relax",
+    "category": "verb"
+  },
+  {
+    "name": "Relieve",
+    "category": "verb"
+  },
+  {
+    "name": "Rely",
+    "category": "verb"
+  },
+  {
+    "name": "Remain",
+    "category": "verb"
+  },
+  {
+    "name": "Remember",
+    "category": "verb"
+  },
+  {
+    "name": "Remind",
+    "category": "verb"
+  },
+  {
+    "name": "Repair",
+    "category": "verb"
+  },
+  {
+    "name": "Replace",
+    "category": "verb"
+  },
+  {
+    "name": "Represent",
+    "category": "verb"
+  },
+  {
+    "name": "Require",
+    "category": "verb"
+  },
+  {
+    "name": "Resent",
+    "category": "verb"
+  },
+  {
+    "name": "Resist",
+    "category": "verb"
+  },
+  {
+    "name": "Retain",
+    "category": "verb"
+  },
+  {
+    "name": "Retire",
+    "category": "verb"
+  },
+  {
+    "name": "Rid",
+    "category": "verb"
+  },
+  {
+    "name": "Ride",
+    "category": "verb"
+  },
+  {
+    "name": "Ring",
+    "category": "verb"
+  },
+  {
+    "name": "Rise",
+    "category": "verb"
+  },
+  {
+    "name": "Risk",
+    "category": "verb"
+  },
+  {
+    "name": "Roast",
+    "category": "verb"
+  },
+  {
+    "name": "Run",
+    "category": "verb"
+  },
+  {
+    "name": "Sanction",
+    "category": "verb"
+  },
+  {
+    "name": "Satisfy",
+    "category": "verb"
+  },
+  {
+    "name": "Say",
+    "category": "verb"
+  },
+  {
+    "name": "Scrub",
+    "category": "verb"
+  },
+  {
+    "name": "See",
+    "category": "verb"
+  },
+  {
+    "name": "Seem",
+    "category": "verb"
+  },
+  {
+    "name": "Sell",
+    "category": "verb"
+  },
+  {
+    "name": "Send",
+    "category": "verb"
+  },
+  {
+    "name": "Serve",
+    "category": "verb"
+  },
+  {
+    "name": "Set",
+    "category": "verb"
+  },
+  {
+    "name": "Settle",
+    "category": "verb"
+  },
+  {
+    "name": "Sew",
+    "category": "verb"
+  },
+  {
+    "name": "Shake",
+    "category": "verb"
+  },
+  {
+    "name": "Shall",
+    "category": "verb"
+  },
+  {
+    "name": "Shed",
+    "category": "verb"
+  },
+  {
+    "name": "Shine",
+    "category": "verb"
+  },
+  {
+    "name": "Shoot",
+    "category": "verb"
+  },
+  {
+    "name": "Should",
+    "category": "verb"
+  },
+  {
+    "name": "Show",
+    "category": "verb"
+  },
+  {
+    "name": "Shrink",
+    "category": "verb"
+  },
+  {
+    "name": "Shut",
+    "category": "verb"
+  },
+  {
+    "name": "Sing",
+    "category": "verb"
+  },
+  {
+    "name": "Sink",
+    "category": "verb"
+  },
+  {
+    "name": "Sit",
+    "category": "verb"
+  },
+  {
+    "name": "Ski",
+    "category": "verb"
+  },
+  {
+    "name": "Sleep",
+    "category": "verb"
+  },
+  {
+    "name": "Slice",
+    "category": "verb"
+  },
+  {
+    "name": "Slide",
+    "category": "verb"
+  },
+  {
+    "name": "Slip",
+    "category": "verb"
+  },
+  {
+    "name": "Smell",
+    "category": "verb"
+  },
+  {
+    "name": "Snore",
+    "category": "verb"
+  },
+  {
+    "name": "Solve",
+    "category": "verb"
+  },
+  {
+    "name": "Sow",
+    "category": "verb"
+  },
+  {
+    "name": "Speak",
+    "category": "verb"
+  },
+  {
+    "name": "Specify",
+    "category": "verb"
+  },
+  {
+    "name": "Spell",
+    "category": "verb"
+  },
+  {
+    "name": "Spend",
+    "category": "verb"
+  },
+  {
+    "name": "Spill",
+    "category": "verb"
+  },
+  {
+    "name": "Spit",
+    "category": "verb"
+  },
+  {
+    "name": "Spread",
+    "category": "verb"
+  },
+  {
+    "name": "Squat",
+    "category": "verb"
+  },
+  {
+    "name": "Stack",
+    "category": "verb"
+  },
+  {
+    "name": "Stand",
+    "category": "verb"
+  },
+  {
+    "name": "Start",
+    "category": "verb"
+  },
+  {
+    "name": "Steal",
+    "category": "verb"
+  },
+  {
+    "name": "Stick",
+    "category": "verb"
+  },
+  {
+    "name": "Sting",
+    "category": "verb"
+  },
+  {
+    "name": "Stink",
+    "category": "verb"
+  },
+  {
+    "name": "Stir",
+    "category": "verb"
+  },
+  {
+    "name": "Stop",
+    "category": "verb"
+  },
+  {
+    "name": "Stretch",
+    "category": "verb"
+  },
+  {
+    "name": "Strike",
+    "category": "verb"
+  },
+  {
+    "name": "Struggle",
+    "category": "verb"
+  },
+  {
+    "name": "Study",
+    "category": "verb"
+  },
+  {
+    "name": "Submit",
+    "category": "verb"
+  },
+  {
+    "name": "Succeed",
+    "category": "verb"
+  },
+  {
+    "name": "Suffer",
+    "category": "verb"
+  },
+  {
+    "name": "Suggest",
+    "category": "verb"
+  },
+  {
+    "name": "Supply",
+    "category": "verb"
+  },
+  {
+    "name": "Suppose",
+    "category": "verb"
+  },
+  {
+    "name": "Surprise",
+    "category": "verb"
+  },
+  {
+    "name": "Survive",
+    "category": "verb"
+  },
+  {
+    "name": "Swear",
+    "category": "verb"
+  },
+  {
+    "name": "Sweep",
+    "category": "verb"
+  },
+  {
+    "name": "Swell",
+    "category": "verb"
+  },
+  {
+    "name": "Swim",
+    "category": "verb"
+  },
+  {
+    "name": "Swing",
+    "category": "verb"
+  },
+  {
+    "name": "Take",
+    "category": "verb"
+  },
+  {
+    "name": "Talk",
+    "category": "verb"
+  },
+  {
+    "name": "Taste",
+    "category": "verb"
+  },
+  {
+    "name": "Teach",
+    "category": "verb"
+  },
+  {
+    "name": "Tear",
+    "category": "verb"
+  },
+  {
+    "name": "Tell",
+    "category": "verb"
+  },
+  {
+    "name": "Tend",
+    "category": "verb"
+  },
+  {
+    "name": "Think",
+    "category": "verb"
+  },
+  {
+    "name": "Threaten",
+    "category": "verb"
+  },
+  {
+    "name": "Throw",
+    "category": "verb"
+  },
+  {
+    "name": "Tiptoe",
+    "category": "verb"
+  },
+  {
+    "name": "Tolerate",
+    "category": "verb"
+  },
+  {
+    "name": "Translate",
+    "category": "verb"
+  },
+  {
+    "name": "Try",
+    "category": "verb"
+  },
+  {
+    "name": "Unfold",
+    "category": "verb"
+  },
+  {
+    "name": "Undertake",
+    "category": "verb"
+  },
+  {
+    "name": "Upset",
+    "category": "verb"
+  },
+  {
+    "name": "Understand",
+    "category": "verb"
+  },
+  {
+    "name": "Use",
+    "category": "verb"
+  },
+  {
+    "name": "Upgrade",
+    "category": "verb"
+  },
+  {
+    "name": "Urge",
+    "category": "verb"
+  },
+  {
+    "name": "Unite",
+    "category": "verb"
+  },
+  {
+    "name": "Validate",
+    "category": "verb"
+  },
+  {
+    "name": "Vanish",
+    "category": "verb"
+  },
+  {
+    "name": "Vex",
+    "category": "verb"
+  },
+  {
+    "name": "Visualize",
+    "category": "verb"
+  },
+  {
+    "name": "Volunteer",
+    "category": "verb"
+  },
+  {
+    "name": "Verify",
+    "category": "verb"
+  },
+  {
+    "name": "Visit",
+    "category": "verb"
+  },
+  {
+    "name": "View",
+    "category": "verb"
+  },
+  {
+    "name": "Vitalize",
+    "category": "verb"
+  },
+  {
+    "name": "Vocalize",
+    "category": "verb"
+  },
+  {
+    "name": "Wait",
+    "category": "verb"
+  },
+  {
+    "name": "Wake",
+    "category": "verb"
+  },
+  {
+    "name": "Walk",
+    "category": "verb"
+  },
+  {
+    "name": "Want",
+    "category": "verb"
+  },
+  {
+    "name": "Warn",
+    "category": "verb"
+  },
+  {
+    "name": "Wash",
+    "category": "verb"
+  },
+  {
+    "name": "Watch",
+    "category": "verb"
+  },
+  {
+    "name": "Wave",
+    "category": "verb"
+  },
+  {
+    "name": "Wear",
+    "category": "verb"
+  },
+  {
+    "name": "Weep",
+    "category": "verb"
+  },
+  {
+    "name": "Weigh",
+    "category": "verb"
+  },
+  {
+    "name": "Whip",
+    "category": "verb"
+  },
+  {
+    "name": "Will",
+    "category": "verb"
+  },
+  {
+    "name": "Win",
+    "category": "verb"
+  },
+  {
+    "name": "Wish",
+    "category": "verb"
+  },
+  {
+    "name": "Would",
+    "category": "verb"
+  },
+  {
+    "name": "Write",
+    "category": "verb"
+  }
+]

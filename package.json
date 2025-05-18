@@ -1,0 +1,26 @@
+{
+  "name": "randomizer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "marked": "^15.0.11",
+    "next": "15.3.2",
+    "next-swagger-doc": "^0.4.1",
+    "swagger-ui-react": "^5.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/swagger-ui-react": "^5.18.0",
+    "typescript": "^5"
+  },
+  "trustedDependencies": [
+    "@tree-sitter-grammars/tree-sitter-yaml",
+    "core-js-pure"
+  ]
+}
