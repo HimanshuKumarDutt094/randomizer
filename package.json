@@ -22,5 +22,13 @@
   "trustedDependencies": [
     "@tree-sitter-grammars/tree-sitter-yaml",
     "core-js-pure"
+  ],
+  "license": "MIT",
+  "author": "Himanshu <https://github.com/HimashuKumarDutt094>",
+  "contributors": [
+    {
+      "name": "Himanshu",
+      "url": "https://github.com/HimashuKumarDutt094"
+    }
   ]
 }
